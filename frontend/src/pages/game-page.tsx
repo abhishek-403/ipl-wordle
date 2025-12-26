@@ -370,10 +370,10 @@ const CricketWordle = () => {
   return (
     <div className="min-h-screen bg-gray-950 text-white font-sans p-4 pb-20">
       <div className=" mx-auto">
-        <header className="flex flex-col items-center mb-10">
-          {/* <h1 className="text-6xl font-black tracking-tighter italic mb-4 text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 via-orange-500 to-red-500 drop-shadow-sm">
+        <header className="flex flex-col items-center mb-4">
+          <h1 className="text-5xl font-black tracking-tighter italic mb-4 text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 via-orange-500 to-red-500 drop-shadow-sm">
             IPL WORDLE
-          </h1> */}
+          </h1>
           <div className="flex gap-6 items-center">
             <div className="bg-gray-900 px-4 py-1 rounded-full border border-gray-800 text-sm font-bold">
               ATTEMPT <span className="text-yellow-500">{guesses.length}</span>{" "}
@@ -409,7 +409,7 @@ const CricketWordle = () => {
         </header>
 
         {!gameOver && (
-          <div className="relative mb-12 max-w-xl mx-auto">
+          <div className="relative mb-6 max-w-xl mx-auto">
             <div className="relative group">
               <Search
                 className="absolute left-5 top-1/2 -translate-y-1/2 text-gray-500 group-focus-within:text-yellow-500 transition-colors"
@@ -516,7 +516,7 @@ const CricketWordle = () => {
                       className="w-40 h-40 rounded-full border-4 border-yellow-500/50 bg-gray-800 object-cover mx-auto"
                     />
                     <div className="absolute -bottom-3 left-1/2 -translate-x-1/2 bg-yellow-500 text-black text-[11px] font-black px-4 py-1.5 rounded-full whitespace-nowrap shadow-lg uppercase">
-                      {targetPlayer.currentTeam}
+                      {targetPlayer.lastTeam}
                     </div>
                   </div>
                   <h3 className="text-3xl font-black uppercase">
