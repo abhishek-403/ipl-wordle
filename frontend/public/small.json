@@ -8,7 +8,9 @@
     "matches": "278",
     "PlayerId": "57",
     "PlayerName": "MS Dhoni",
-    "teams": ["Chennai Super Kings"],
+    "teams": [
+      "Chennai Super Kings"
+    ],
     "Batting": {
       "Innings": 242,
       "Runs": 5439,
@@ -31,38 +33,6 @@
       "Wickets": 0
     }
   },
-  "5": {
-    "dob": "23 October 1983",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2008",
-    "specialization": "Bowler",
-    "matches": "16",
-    "PlayerId": "0",
-    "PlayerName": "Joginder Sharma",
-    "teams": ["Chennai Super Kings"],
-    "Batting": {
-      "Innings": 5,
-      "Runs": 36,
-      "Balls": 29,
-      "HighestScore": "16",
-      "Fifties": 0,
-      "Hundreds": 0,
-      "Sixes": 2,
-      "Fours": 1,
-      "StrikeRate": 124.14,
-      "BattingAvg": 12,
-      "NotOuts": 2,
-      "Catches": 4,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 15,
-      "Overs": "42.70",
-      "Runs": 419,
-      "Wickets": 12
-    }
-  },
   "7": {
     "dob": "01 April 1984",
     "nationality": "Indian",
@@ -72,7 +42,11 @@
     "matches": "106",
     "PlayerId": "53",
     "PlayerName": "Murali Vijay",
-    "teams": ["Chennai Super Kings", "Punjab Kings", "Delhi Capitals"],
+    "teams": [
+      "Chennai Super Kings",
+      "Punjab Kings",
+      "Delhi Capitals"
+    ],
     "Batting": {
       "Innings": 106,
       "Runs": 2619,
@@ -104,7 +78,10 @@
     "matches": "221",
     "PlayerId": "45",
     "PlayerName": "Ravichandran Ashwin",
-    "teams": ["Chennai Super Kings", "Rajasthan Royals"],
+    "teams": [
+      "Chennai Super Kings",
+      "Rajasthan Royals"
+    ],
     "Batting": {
       "Innings": 98,
       "Runs": 833,
@@ -136,7 +113,9 @@
     "matches": "254",
     "PlayerId": "46",
     "PlayerName": "Ravindra Jadeja",
-    "teams": ["Chennai Super Kings"],
+    "teams": [
+      "Chennai Super Kings"
+    ],
     "Batting": {
       "Innings": 198,
       "Runs": 3260,
@@ -159,70 +138,6 @@
       "Wickets": 170
     }
   },
-  "10": {
-    "dob": "27 November 1980",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2009",
-    "specialization": "Bowler",
-    "matches": "59",
-    "PlayerId": "0",
-    "PlayerName": "Shadab Jakati",
-    "teams": ["", "Chennai Super Kings"],
-    "Batting": {
-      "Innings": 5,
-      "Runs": 28,
-      "Balls": 29,
-      "HighestScore": "13",
-      "Fifties": 0,
-      "Hundreds": 0,
-      "Sixes": 0,
-      "Fours": 3,
-      "StrikeRate": 96.55,
-      "BattingAvg": 28,
-      "NotOuts": 4,
-      "Catches": 11,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 57,
-      "Overs": "180.80",
-      "Runs": 1450,
-      "Wickets": 47
-    }
-  },
-  "11": {
-    "dob": "14 April 1987",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2008",
-    "specialization": "Batter",
-    "matches": "20",
-    "PlayerId": "0",
-    "PlayerName": "Srikkanth Anirudha",
-    "teams": ["Sunrisers Hyderabad", "Chennai Super Kings"],
-    "Batting": {
-      "Innings": 9,
-      "Runs": 106,
-      "Balls": 93,
-      "HighestScore": "64",
-      "Fifties": 1,
-      "Hundreds": 0,
-      "Sixes": 5,
-      "Fours": 7,
-      "StrikeRate": 113.98,
-      "BattingAvg": 17.67,
-      "NotOuts": 3,
-      "Catches": 8,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 0,
-      "Overs": "0.00",
-      "Runs": 0,
-      "Wickets": 0
-    }
-  },
   "12": {
     "dob": "30 August 1980",
     "nationality": "Indian",
@@ -232,7 +147,9 @@
     "matches": "95",
     "PlayerId": "0",
     "PlayerName": "Subramaniam Badrinath",
-    "teams": ["Chennai Super Kings"],
+    "teams": [
+      "Chennai Super Kings"
+    ],
     "Batting": {
       "Innings": 67,
       "Runs": 1441,
@@ -264,7 +181,9 @@
     "matches": "205",
     "PlayerId": "106",
     "PlayerName": "Suresh Raina",
-    "teams": ["Chennai Super Kings", ""],
+    "teams": [
+      "Chennai Super Kings"
+    ],
     "Batting": {
       "Innings": 200,
       "Runs": 5528,
@@ -287,38 +206,6 @@
       "Wickets": 25
     }
   },
-  "15": {
-    "dob": "21 December 1987",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2008",
-    "specialization": "Bowler",
-    "matches": "18",
-    "PlayerId": "0",
-    "PlayerName": "Yo Mahesh",
-    "teams": ["Delhi Capitals"],
-    "Batting": {
-      "Innings": 5,
-      "Runs": 15,
-      "Balls": 27,
-      "HighestScore": "6*",
-      "Fifties": 0,
-      "Hundreds": 0,
-      "Sixes": 0,
-      "Fours": 0,
-      "StrikeRate": 55.56,
-      "BattingAvg": 7.5,
-      "NotOuts": 3,
-      "Catches": 5,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 16,
-      "Overs": "54.50",
-      "Runs": 474,
-      "Wickets": 20
-    }
-  },
   "16": {
     "dob": "24 October 1984",
     "nationality": "Indian",
@@ -328,7 +215,9 @@
     "matches": "170",
     "PlayerId": "225",
     "PlayerName": "Wriddhiman Saha",
-    "teams": ["Gujarat Titans"],
+    "teams": [
+      "Gujarat Titans"
+    ],
     "Batting": {
       "Innings": 145,
       "Runs": 2934,
@@ -351,70 +240,6 @@
       "Wickets": 0
     }
   },
-  "18": {
-    "dob": "24 July 1981",
-    "nationality": "Australian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2010",
-    "specialization": "Bowler",
-    "matches": "27",
-    "PlayerId": "0",
-    "PlayerName": "Doug Bollinger",
-    "teams": ["Chennai Super Kings"],
-    "Batting": {
-      "Innings": 3,
-      "Runs": 21,
-      "Balls": 22,
-      "HighestScore": "16*",
-      "Fifties": 0,
-      "Hundreds": 0,
-      "Sixes": 1,
-      "Fours": 1,
-      "StrikeRate": 95.45,
-      "BattingAvg": 21,
-      "NotOuts": 2,
-      "Catches": 4,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 27,
-      "Overs": "96.00",
-      "Runs": 693,
-      "Wickets": 37
-    }
-  },
-  "19": {
-    "dob": "07 September 1982",
-    "nationality": "Australian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2009",
-    "specialization": "Batter",
-    "matches": "40",
-    "PlayerId": "0",
-    "PlayerName": "George Bailey",
-    "teams": ["", "Punjab Kings", "Chennai Super Kings"],
-    "Batting": {
-      "Innings": 37,
-      "Runs": 663,
-      "Balls": 544,
-      "HighestScore": "61",
-      "Fifties": 2,
-      "Hundreds": 0,
-      "Sixes": 19,
-      "Fours": 59,
-      "StrikeRate": 121.88,
-      "BattingAvg": 24.56,
-      "NotOuts": 10,
-      "Catches": 11,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 0,
-      "Overs": "0.00",
-      "Runs": 0,
-      "Wickets": 0
-    }
-  },
   "20": {
     "dob": "27 May 1975",
     "nationality": "Australian",
@@ -424,7 +249,10 @@
     "matches": "59",
     "PlayerId": "0",
     "PlayerName": "Michael Hussey",
-    "teams": ["Chennai Super Kings", "Mumbai Indians"],
+    "teams": [
+      "Chennai Super Kings",
+      "Mumbai Indians"
+    ],
     "Batting": {
       "Innings": 58,
       "Runs": 1977,
@@ -447,38 +275,6 @@
       "Wickets": 0
     }
   },
-  "22": {
-    "dob": "10 July 1975",
-    "nationality": "New Zealander",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2008",
-    "specialization": "All Rounder",
-    "matches": "12",
-    "PlayerId": "0",
-    "PlayerName": "Scott Styris",
-    "teams": ["Chennai Super Kings", ""],
-    "Batting": {
-      "Innings": 10,
-      "Runs": 131,
-      "Balls": 133,
-      "HighestScore": "36*",
-      "Fifties": 0,
-      "Hundreds": 0,
-      "Sixes": 3,
-      "Fours": 10,
-      "StrikeRate": 98.5,
-      "BattingAvg": 18.71,
-      "NotOuts": 3,
-      "Catches": 1,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 11,
-      "Overs": "36.00",
-      "Runs": 276,
-      "Wickets": 8
-    }
-  },
   "24": {
     "dob": "13 July 1984",
     "nationality": "South African",
@@ -488,7 +284,10 @@
     "matches": "154",
     "PlayerId": "94",
     "PlayerName": "Faf du Plessis",
-    "teams": ["Delhi Capitals", "Royal Challengers Bengaluru"],
+    "teams": [
+      "Delhi Capitals",
+      "Royal Challengers Bengaluru"
+    ],
     "Batting": {
       "Innings": 147,
       "Runs": 4773,
@@ -520,7 +319,9 @@
     "matches": "161",
     "PlayerId": "93",
     "PlayerName": "Dwayne Bravo",
-    "teams": ["Chennai Super Kings"],
+    "teams": [
+      "Chennai Super Kings"
+    ],
     "Batting": {
       "Innings": 113,
       "Runs": 1560,
@@ -553,7 +354,6 @@
     "PlayerId": "481",
     "PlayerName": "Albie Morkel",
     "teams": [
-      "",
       "Delhi Capitals",
       "Royal Challengers Bangalore",
       "Chennai Super Kings"
@@ -589,7 +389,10 @@
     "matches": "71",
     "PlayerId": "0",
     "PlayerName": "Kumar Sangakkara",
-    "teams": ["Sunrisers Hyderabad", "", "Punjab Kings"],
+    "teams": [
+      "Sunrisers Hyderabad",
+      "Punjab Kings"
+    ],
     "Batting": {
       "Innings": 68,
       "Runs": 1687,
@@ -612,38 +415,6 @@
       "Wickets": 0
     }
   },
-  "29": {
-    "dob": "11 February 1991",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2012",
-    "specialization": "Batter",
-    "matches": "12",
-    "PlayerId": "0",
-    "PlayerName": "Akshath Reddy",
-    "teams": ["Sunrisers Hyderabad", ""],
-    "Batting": {
-      "Innings": 10,
-      "Runs": 164,
-      "Balls": 160,
-      "HighestScore": "42",
-      "Fifties": 0,
-      "Hundreds": 0,
-      "Sixes": 2,
-      "Fours": 15,
-      "StrikeRate": 102.5,
-      "BattingAvg": 16.4,
-      "NotOuts": 0,
-      "Catches": 2,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 1,
-      "Overs": "3.00",
-      "Runs": 32,
-      "Wickets": 1
-    }
-  },
   "30": {
     "dob": "24 November 1982",
     "nationality": "Indian",
@@ -656,8 +427,7 @@
     "teams": [
       "Lucknow Super Giants",
       "Delhi Capitals",
-      "Sunrisers Hyderabad",
-      ""
+      "Sunrisers Hyderabad"
     ],
     "Batting": {
       "Innings": 57,
@@ -681,134 +451,6 @@
       "Wickets": 166
     }
   },
-  "32": {
-    "dob": "20 April 1991",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/32.png",
-    "iplDebut": "2012",
-    "specialization": "All Rounder",
-    "matches": "22",
-    "PlayerId": "0",
-    "PlayerName": "Ankit Sharma",
-    "teams": ["", "Rajasthan Royals"],
-    "Batting": {
-      "Innings": 10,
-      "Runs": 87,
-      "Balls": 67,
-      "HighestScore": "30",
-      "Fifties": 0,
-      "Hundreds": 0,
-      "Sixes": 4,
-      "Fours": 7,
-      "StrikeRate": 129.85,
-      "BattingAvg": 12.43,
-      "NotOuts": 3,
-      "Catches": 3,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 21,
-      "Overs": "61.20",
-      "Runs": 450,
-      "Wickets": 12
-    }
-  },
-  "34": {
-    "dob": "24 February 1981",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2012",
-    "specialization": "Bowler",
-    "matches": "31",
-    "PlayerId": "0",
-    "PlayerName": "Ashish Reddy",
-    "teams": ["Sunrisers Hyderabad", ""],
-    "Batting": {
-      "Innings": 24,
-      "Runs": 280,
-      "Balls": 193,
-      "HighestScore": "36*",
-      "Fifties": 0,
-      "Hundreds": 0,
-      "Sixes": 15,
-      "Fours": 16,
-      "StrikeRate": 145.08,
-      "BattingAvg": 18.67,
-      "NotOuts": 9,
-      "Catches": 9,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 19,
-      "Overs": "40.70",
-      "Runs": 364,
-      "Wickets": 17
-    }
-  },
-  "35": {
-    "dob": "27 January 1983",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2008",
-    "specialization": "Batter",
-    "matches": "23",
-    "PlayerId": "0",
-    "PlayerName": "Bharat Chipli",
-    "teams": ["Delhi Capitals", "", "Royal Challengers Bangalore"],
-    "Batting": {
-      "Innings": 21,
-      "Runs": 280,
-      "Balls": 251,
-      "HighestScore": "61",
-      "Fifties": 1,
-      "Hundreds": 0,
-      "Sixes": 7,
-      "Fours": 28,
-      "StrikeRate": 111.55,
-      "BattingAvg": 18.67,
-      "NotOuts": 6,
-      "Catches": 2,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 1,
-      "Overs": "1.00",
-      "Runs": 20,
-      "Wickets": 0
-    }
-  },
-  "36": {
-    "dob": "05 September 1987",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2008",
-    "specialization": "Batter",
-    "matches": "32",
-    "PlayerId": "0",
-    "PlayerName": "Dwaraka Ravi Teja",
-    "teams": ["Sunrisers Hyderabad", ""],
-    "Batting": {
-      "Innings": 25,
-      "Runs": 375,
-      "Balls": 317,
-      "HighestScore": "60",
-      "Fifties": 1,
-      "Hundreds": 0,
-      "Sixes": 9,
-      "Fours": 35,
-      "StrikeRate": 118.3,
-      "BattingAvg": 19.74,
-      "NotOuts": 6,
-      "Catches": 11,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 2,
-      "Overs": "3.00",
-      "Runs": 28,
-      "Wickets": 1
-    }
-  },
   "38": {
     "dob": "02 September 1988",
     "nationality": "Indian",
@@ -822,7 +464,6 @@
       "Gujarat Titans",
       "Delhi Capitals",
       "Punjab Kings",
-      "",
       "Kolkata Knight Riders"
     ],
     "Batting": {
@@ -847,38 +488,6 @@
       "Wickets": 97
     }
   },
-  "40": {
-    "dob": "01 January 1984",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2008",
-    "specialization": "Bowler",
-    "matches": "44",
-    "PlayerId": "507",
-    "PlayerName": "Manpreet Gony",
-    "teams": ["Punjab Kings", "", "Chennai Super Kings"],
-    "Batting": {
-      "Innings": 15,
-      "Runs": 99,
-      "Balls": 69,
-      "HighestScore": "42*",
-      "Fifties": 0,
-      "Hundreds": 0,
-      "Sixes": 8,
-      "Fours": 6,
-      "StrikeRate": 143.48,
-      "BattingAvg": 11,
-      "NotOuts": 6,
-      "Catches": 6,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 44,
-      "Overs": "148.00",
-      "Runs": 1287,
-      "Wickets": 37
-    }
-  },
   "41": {
     "dob": "05 December 1985",
     "nationality": "Indian",
@@ -888,7 +497,9 @@
     "matches": "222",
     "PlayerId": "11",
     "PlayerName": "Shikhar Dhawan",
-    "teams": ["Punjab Kings"],
+    "teams": [
+      "Punjab Kings"
+    ],
     "Batting": {
       "Innings": 221,
       "Runs": 6769,
@@ -911,38 +522,6 @@
       "Wickets": 4
     }
   },
-  "42": {
-    "dob": "10 November 1987",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2008",
-    "specialization": "Batter",
-    "matches": "22",
-    "PlayerId": "0",
-    "PlayerName": "Sunny Sohal",
-    "teams": ["", "Punjab Kings"],
-    "Batting": {
-      "Innings": 20,
-      "Runs": 368,
-      "Balls": 292,
-      "HighestScore": "62",
-      "Fifties": 2,
-      "Hundreds": 0,
-      "Sixes": 18,
-      "Fours": 34,
-      "StrikeRate": 126.03,
-      "BattingAvg": 18.4,
-      "NotOuts": 0,
-      "Catches": 2,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 0,
-      "Overs": "0.00",
-      "Runs": 0,
-      "Wickets": 0
-    }
-  },
   "44": {
     "dob": "09 March 1985",
     "nationality": "Indian",
@@ -956,7 +535,6 @@
       "Royal Challengers Bangalore",
       "Mumbai Indians",
       "Sunrisers Hyderabad",
-      "",
       "Chennai Super Kings"
     ],
     "Batting": {
@@ -990,7 +568,10 @@
     "matches": "104",
     "PlayerId": "461",
     "PlayerName": "Virender Sehwag",
-    "teams": ["Punjab Kings", "Delhi Capitals", null],
+    "teams": [
+      "Punjab Kings",
+      "Delhi Capitals"
+    ],
     "Batting": {
       "Innings": 104,
       "Runs": 2728,
@@ -1013,38 +594,6 @@
       "Wickets": 6
     }
   },
-  "47": {
-    "dob": "04 December 1977",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2008",
-    "specialization": "All Rounder",
-    "matches": "42",
-    "PlayerId": "464",
-    "PlayerName": "Ajit Agarkar",
-    "teams": ["Delhi Capitals", "Kolkata Knight Riders"],
-    "Batting": {
-      "Innings": 21,
-      "Runs": 179,
-      "Balls": 154,
-      "HighestScore": "39",
-      "Fifties": 0,
-      "Hundreds": 0,
-      "Sixes": 5,
-      "Fours": 13,
-      "StrikeRate": 116.23,
-      "BattingAvg": 17.9,
-      "NotOuts": 11,
-      "Catches": 3,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 42,
-      "Overs": "130.30",
-      "Runs": 1151,
-      "Wickets": 29
-    }
-  },
   "48": {
     "dob": "25 March 1984",
     "nationality": "Indian",
@@ -1054,7 +603,10 @@
     "matches": "78",
     "PlayerId": "0",
     "PlayerName": "Ashok Dinda",
-    "teams": ["", "Royal Challengers Bangalore", "Kolkata Knight Riders"],
+    "teams": [
+      "Royal Challengers Bangalore",
+      "Kolkata Knight Riders"
+    ],
     "Batting": {
       "Innings": 15,
       "Runs": 26,
@@ -1086,7 +638,11 @@
     "matches": "103",
     "PlayerId": "458",
     "PlayerName": "Irfan Pathan",
-    "teams": ["", "Sunrisers Hyderabad", "Delhi Capitals", "Punjab Kings"],
+    "teams": [
+      "Sunrisers Hyderabad",
+      "Delhi Capitals",
+      "Punjab Kings"
+    ],
     "Batting": {
       "Innings": 82,
       "Runs": 1139,
@@ -1118,7 +674,11 @@
     "matches": "113",
     "PlayerId": "0",
     "PlayerName": "Naman Ojha",
-    "teams": ["Delhi Capitals", "Sunrisers Hyderabad", "Rajasthan Royals"],
+    "teams": [
+      "Delhi Capitals",
+      "Sunrisers Hyderabad",
+      "Rajasthan Royals"
+    ],
     "Batting": {
       "Innings": 94,
       "Runs": 1554,
@@ -1141,42 +701,6 @@
       "Wickets": 0
     }
   },
-  "53": {
-    "dob": "06 January 1983",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/53.png",
-    "iplDebut": "2012",
-    "specialization": "All Rounder",
-    "matches": "50",
-    "PlayerId": "208",
-    "PlayerName": "Pawan Negi",
-    "teams": [
-      "Royal Challengers Bangalore",
-      "Delhi Capitals",
-      "Chennai Super Kings"
-    ],
-    "Batting": {
-      "Innings": 35,
-      "Runs": 365,
-      "Balls": 289,
-      "HighestScore": "36",
-      "Fifties": 0,
-      "Hundreds": 0,
-      "Sixes": 16,
-      "Fours": 27,
-      "StrikeRate": 126.3,
-      "BattingAvg": 14.04,
-      "NotOuts": 9,
-      "Catches": 14,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 42,
-      "Overs": "119.30",
-      "Runs": 939,
-      "Wickets": 34
-    }
-  },
   "57": {
     "dob": "12 August 1989",
     "nationality": "Indian",
@@ -1186,7 +710,9 @@
     "matches": "72",
     "PlayerId": "221",
     "PlayerName": "Shahbaz Nadeem",
-    "teams": ["Lucknow Super Giants", null],
+    "teams": [
+      "Lucknow Super Giants"
+    ],
     "Batting": {
       "Innings": 22,
       "Runs": 39,
@@ -1218,7 +744,10 @@
     "matches": "148",
     "PlayerId": "21",
     "PlayerName": "Umesh Yadav",
-    "teams": ["Gujarat Titans", "Kolkata Knight Riders"],
+    "teams": [
+      "Gujarat Titans",
+      "Kolkata Knight Riders"
+    ],
     "Batting": {
       "Innings": 52,
       "Runs": 208,
@@ -1241,38 +770,6 @@
       "Wickets": 119
     }
   },
-  "60": {
-    "dob": "26 March 1993",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2011",
-    "specialization": "Batter",
-    "matches": "21",
-    "PlayerId": "0",
-    "PlayerName": "Unmukt Chand",
-    "teams": ["Mumbai Indians", "Rajasthan Royals", "Delhi Capitals"],
-    "Batting": {
-      "Innings": 20,
-      "Runs": 300,
-      "Balls": 300,
-      "HighestScore": "58",
-      "Fifties": 1,
-      "Hundreds": 0,
-      "Sixes": 9,
-      "Fours": 32,
-      "StrikeRate": 100,
-      "BattingAvg": 15,
-      "NotOuts": 0,
-      "Catches": 8,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 0,
-      "Overs": "0.00",
-      "Runs": 0,
-      "Wickets": 0
-    }
-  },
   "61": {
     "dob": "29 October 1989",
     "nationality": "Indian",
@@ -1282,7 +779,9 @@
     "matches": "52",
     "PlayerId": "197",
     "PlayerName": "Varun Aaron",
-    "teams": ["Gujarat Titans", null],
+    "teams": [
+      "Gujarat Titans"
+    ],
     "Batting": {
       "Innings": 13,
       "Runs": 50,
@@ -1314,7 +813,10 @@
     "matches": "65",
     "PlayerId": "0",
     "PlayerName": "Venugopal Rao",
-    "teams": ["Sunrisers Hyderabad", "Delhi Capitals", ""],
+    "teams": [
+      "Sunrisers Hyderabad",
+      "Delhi Capitals"
+    ],
     "Batting": {
       "Innings": 54,
       "Runs": 985,
@@ -1337,38 +839,6 @@
       "Wickets": 6
     }
   },
-  "64": {
-    "dob": "06 January 1990",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2009",
-    "specialization": "All Rounder",
-    "matches": "26",
-    "PlayerId": "0",
-    "PlayerName": "Yogesh Nagar",
-    "teams": ["Delhi Capitals"],
-    "Batting": {
-      "Innings": 18,
-      "Runs": 263,
-      "Balls": 233,
-      "HighestScore": "43",
-      "Fifties": 0,
-      "Hundreds": 0,
-      "Sixes": 9,
-      "Fours": 19,
-      "StrikeRate": 112.88,
-      "BattingAvg": 21.92,
-      "NotOuts": 6,
-      "Catches": 5,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 6,
-      "Overs": "6.00",
-      "Runs": 77,
-      "Wickets": 1
-    }
-  },
   "65": {
     "dob": "14 November 1971",
     "nationality": "Australian",
@@ -1378,7 +848,9 @@
     "matches": "80",
     "PlayerId": "0",
     "PlayerName": "Adam Gilchrist",
-    "teams": ["Punjab Kings", ""],
+    "teams": [
+      "Punjab Kings"
+    ],
     "Batting": {
       "Innings": 80,
       "Runs": 2069,
@@ -1410,7 +882,11 @@
     "matches": "60",
     "PlayerId": "0",
     "PlayerName": "Abhishek Nayar",
-    "teams": ["Rajasthan Royals", "", "Punjab Kings", "Mumbai Indians"],
+    "teams": [
+      "Rajasthan Royals",
+      "Punjab Kings",
+      "Mumbai Indians"
+    ],
     "Batting": {
       "Innings": 50,
       "Runs": 672,
@@ -1433,38 +909,6 @@
       "Wickets": 9
     }
   },
-  "69": {
-    "dob": "28 September 1983",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/69.png",
-    "iplDebut": "2010",
-    "specialization": "All Rounder",
-    "matches": "33",
-    "PlayerId": "0",
-    "PlayerName": "Bipul Sharma",
-    "teams": ["Sunrisers Hyderabad", "Punjab Kings"],
-    "Batting": {
-      "Innings": 17,
-      "Runs": 187,
-      "Balls": 123,
-      "HighestScore": "35*",
-      "Fifties": 0,
-      "Hundreds": 0,
-      "Sixes": 9,
-      "Fours": 11,
-      "StrikeRate": 152.03,
-      "BattingAvg": 23.38,
-      "NotOuts": 9,
-      "Catches": 7,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 28,
-      "Overs": "71.00",
-      "Runs": 572,
-      "Wickets": 17
-    }
-  },
   "72": {
     "dob": "18 December 1991",
     "nationality": "Indian",
@@ -1474,7 +918,9 @@
     "matches": "111",
     "PlayerId": "132",
     "PlayerName": "Mandeep Singh",
-    "teams": ["Delhi Capitals", null],
+    "teams": [
+      "Delhi Capitals"
+    ],
     "Batting": {
       "Innings": 92,
       "Runs": 1674,
@@ -1497,70 +943,6 @@
       "Wickets": 1
     }
   },
-  "74": {
-    "dob": "19 November 1984",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2010",
-    "specialization": "Batter",
-    "matches": "13",
-    "PlayerId": "0",
-    "PlayerName": "Paras Dogra",
-    "teams": ["Kolkata Knight Riders", "Punjab Kings", "Rajasthan Royals"],
-    "Batting": {
-      "Innings": 12,
-      "Runs": 127,
-      "Balls": 138,
-      "HighestScore": "41",
-      "Fifties": 0,
-      "Hundreds": 0,
-      "Sixes": 5,
-      "Fours": 4,
-      "StrikeRate": 92.03,
-      "BattingAvg": 11.55,
-      "NotOuts": 1,
-      "Catches": 2,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 0,
-      "Overs": "0.00",
-      "Runs": 0,
-      "Wickets": 0
-    }
-  },
-  "75": {
-    "dob": "07 December 1983",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2009",
-    "specialization": "Batter",
-    "matches": "23",
-    "PlayerId": "0",
-    "PlayerName": "Paul Valthaty",
-    "teams": ["Punjab Kings", "Rajasthan Royals"],
-    "Batting": {
-      "Innings": 23,
-      "Runs": 505,
-      "Balls": 418,
-      "HighestScore": "120",
-      "Fifties": 2,
-      "Hundreds": 1,
-      "Sixes": 20,
-      "Fours": 61,
-      "StrikeRate": 120.81,
-      "BattingAvg": 22.95,
-      "NotOuts": 1,
-      "Catches": 2,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 10,
-      "Overs": "25.20",
-      "Runs": 205,
-      "Wickets": 7
-    }
-  },
   "76": {
     "dob": "24 December 1988",
     "nationality": "Indian",
@@ -1570,7 +952,11 @@
     "matches": "192",
     "PlayerId": "149",
     "PlayerName": "Piyush Chawla",
-    "teams": ["Mumbai Indians", "Kolkata Knight Riders", "Punjab Kings"],
+    "teams": [
+      "Mumbai Indians",
+      "Kolkata Knight Riders",
+      "Punjab Kings"
+    ],
     "Batting": {
       "Innings": 92,
       "Runs": 624,
@@ -1603,7 +989,6 @@
     "PlayerId": "0",
     "PlayerName": "Praveen Kumar",
     "teams": [
-      "",
       "Sunrisers Hyderabad",
       "Mumbai Indians",
       "Punjab Kings",
@@ -1631,134 +1016,6 @@
       "Wickets": 90
     }
   },
-  "78": {
-    "dob": "14 January 1981",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2010",
-    "specialization": "All Rounder",
-    "matches": "34",
-    "PlayerId": "0",
-    "PlayerName": "Rajagopal Sathish",
-    "teams": ["Kolkata Knight Riders", "Punjab Kings", "Mumbai Indians"],
-    "Batting": {
-      "Innings": 25,
-      "Runs": 270,
-      "Balls": 231,
-      "HighestScore": "27",
-      "Fifties": 0,
-      "Hundreds": 0,
-      "Sixes": 6,
-      "Fours": 22,
-      "StrikeRate": 116.88,
-      "BattingAvg": 15.88,
-      "NotOuts": 8,
-      "Catches": 6,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 14,
-      "Overs": "23.20",
-      "Runs": 232,
-      "Wickets": 3
-    }
-  },
-  "79": {
-    "dob": "02 September 1981",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2010",
-    "specialization": "Bowler",
-    "matches": "0",
-    "PlayerId": "0",
-    "PlayerName": "Shalabh Srivastava",
-    "teams": ["Punjab Kings"],
-    "Batting": {
-      "Innings": 4,
-      "Runs": 5,
-      "Balls": 5,
-      "HighestScore": "3*",
-      "Fifties": 0,
-      "Hundreds": 0,
-      "Sixes": 0,
-      "Fours": 0,
-      "StrikeRate": 100,
-      "BattingAvg": 5,
-      "NotOuts": 3,
-      "Catches": 3,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 14,
-      "Overs": "47.00",
-      "Runs": 441,
-      "Wickets": 14
-    }
-  },
-  "80": {
-    "dob": "06 May 1987",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2008",
-    "specialization": "Batter",
-    "matches": "11",
-    "PlayerId": "0",
-    "PlayerName": "Siddharth Chitnis",
-    "teams": ["Punjab Kings", "Rajasthan Royals", "Mumbai Indians"],
-    "Batting": {
-      "Innings": 8,
-      "Runs": 99,
-      "Balls": 89,
-      "HighestScore": "38",
-      "Fifties": 0,
-      "Hundreds": 0,
-      "Sixes": 2,
-      "Fours": 10,
-      "StrikeRate": 111.24,
-      "BattingAvg": 14.14,
-      "NotOuts": 1,
-      "Catches": 2,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 2,
-      "Overs": "6.00",
-      "Runs": 60,
-      "Wickets": 2
-    }
-  },
-  "83": {
-    "dob": "20 May 1978",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2008",
-    "specialization": "Bowler",
-    "matches": "27",
-    "PlayerId": "0",
-    "PlayerName": "Ramesh Powar",
-    "teams": ["", "Punjab Kings"],
-    "Batting": {
-      "Innings": 10,
-      "Runs": 67,
-      "Balls": 64,
-      "HighestScore": "28*",
-      "Fifties": 0,
-      "Hundreds": 0,
-      "Sixes": 1,
-      "Fours": 6,
-      "StrikeRate": 104.69,
-      "BattingAvg": 22.33,
-      "NotOuts": 7,
-      "Catches": 5,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 26,
-      "Overs": "71.00",
-      "Runs": 527,
-      "Wickets": 13
-    }
-  },
   "84": {
     "dob": "14 October 1981",
     "nationality": "Indian",
@@ -1768,7 +1025,10 @@
     "matches": "154",
     "PlayerId": "999",
     "PlayerName": "Gautam Gambhir",
-    "teams": ["Delhi Capitals", "Kolkata Knight Riders", null],
+    "teams": [
+      "Delhi Capitals",
+      "Kolkata Knight Riders"
+    ],
     "Batting": {
       "Innings": 152,
       "Runs": 4217,
@@ -1791,38 +1051,6 @@
       "Wickets": 0
     }
   },
-  "85": {
-    "dob": "02 December 1989",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2008",
-    "specialization": "Bowler",
-    "matches": "49",
-    "PlayerId": "0",
-    "PlayerName": "Iqbal Abdulla",
-    "teams": ["Royal Challengers Bangalore", "Kolkata Knight Riders"],
-    "Batting": {
-      "Innings": 10,
-      "Runs": 86,
-      "Balls": 80,
-      "HighestScore": "33*",
-      "Fifties": 0,
-      "Hundreds": 0,
-      "Sixes": 1,
-      "Fours": 9,
-      "StrikeRate": 107.5,
-      "BattingAvg": 43,
-      "NotOuts": 8,
-      "Catches": 8,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 48,
-      "Overs": "153.30",
-      "Runs": 1109,
-      "Wickets": 40
-    }
-  },
   "86": {
     "dob": "18 October 1991",
     "nationality": "Indian",
@@ -1835,8 +1063,7 @@
     "teams": [
       "Sunrisers Hyderabad",
       "Lucknow Super Giants",
-      "Mumbai Indians",
-      null
+      "Mumbai Indians"
     ],
     "Batting": {
       "Innings": 32,
@@ -1869,7 +1096,11 @@
     "matches": "73",
     "PlayerId": "0",
     "PlayerName": "Lakshmipathy Balaji",
-    "teams": ["Punjab Kings", "Kolkata Knight Riders", "Chennai Super Kings"],
+    "teams": [
+      "Punjab Kings",
+      "Kolkata Knight Riders",
+      "Chennai Super Kings"
+    ],
     "Batting": {
       "Innings": 15,
       "Runs": 36,
@@ -1892,38 +1123,6 @@
       "Wickets": 76
     }
   },
-  "88": {
-    "dob": "06 May 1981",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2008",
-    "specialization": "All Rounder",
-    "matches": "47",
-    "PlayerId": "0",
-    "PlayerName": "Laxmi Ratan Shukla",
-    "teams": ["Delhi Capitals", "Kolkata Knight Riders"],
-    "Batting": {
-      "Innings": 34,
-      "Runs": 405,
-      "Balls": 350,
-      "HighestScore": "48",
-      "Fifties": 0,
-      "Hundreds": 0,
-      "Sixes": 16,
-      "Fours": 33,
-      "StrikeRate": 115.71,
-      "BattingAvg": 15,
-      "NotOuts": 7,
-      "Catches": 12,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 27,
-      "Overs": "52.30",
-      "Runs": 447,
-      "Wickets": 15
-    }
-  },
   "89": {
     "dob": "14 November 1985",
     "nationality": "Indian",
@@ -1933,7 +1132,11 @@
     "matches": "98",
     "PlayerId": "0",
     "PlayerName": "Manoj Tiwary",
-    "teams": ["Punjab Kings", "", "Delhi Capitals", "Kolkata Knight Riders"],
+    "teams": [
+      "Punjab Kings",
+      "Delhi Capitals",
+      "Kolkata Knight Riders"
+    ],
     "Batting": {
       "Innings": 84,
       "Runs": 1686,
@@ -1956,74 +1159,6 @@
       "Wickets": 1
     }
   },
-  "90": {
-    "dob": "27 December 1984",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
-    "iplDebut": "2010",
-    "specialization": "Wicketkeeper Batter",
-    "matches": "39",
-    "PlayerId": "0",
-    "PlayerName": "Manvinder Bisla",
-    "teams": [
-      "Royal Challengers Bangalore",
-      "Kolkata Knight Riders",
-      "Punjab Kings"
-    ],
-    "Batting": {
-      "Innings": 39,
-      "Runs": 798,
-      "Balls": 702,
-      "HighestScore": "92",
-      "Fifties": 4,
-      "Hundreds": 0,
-      "Sixes": 23,
-      "Fours": 93,
-      "StrikeRate": 113.68,
-      "BattingAvg": 21,
-      "NotOuts": 1,
-      "Catches": 21,
-      "Stumpings": 7
-    },
-    "Bowling": {
-      "Innings": 0,
-      "Overs": "0.00",
-      "Runs": 0,
-      "Wickets": 0
-    }
-  },
-  "91": {
-    "dob": "05 November 1990",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2023/977.png",
-    "iplDebut": "2008",
-    "specialization": "Bowler",
-    "matches": "42",
-    "PlayerId": "977",
-    "PlayerName": "Pradeep Sangwan",
-    "teams": ["Gujarat Titans", null],
-    "Batting": {
-      "Innings": 14,
-      "Runs": 24,
-      "Balls": 39,
-      "HighestScore": "6*",
-      "Fifties": 0,
-      "Hundreds": 0,
-      "Sixes": 0,
-      "Fours": 1,
-      "StrikeRate": 61.54,
-      "BattingAvg": 2.18,
-      "NotOuts": 3,
-      "Catches": 3,
-      "Stumpings": 0
-    },
-    "Bowling": {
-      "Innings": 39,
-      "Overs": "133.70",
-      "Runs": 1175,
-      "Wickets": 35
-    }
-  },
   "92": {
     "dob": "22 October 1979",
     "nationality": "Indian",
@@ -2034,7 +1169,6 @@
     "PlayerId": "0",
     "PlayerName": "Rajat Bhatia",
     "teams": [
-      "",
       "Rajasthan Royals",
       "Kolkata Knight Riders",
       "Delhi Capitals"
@@ -2070,7 +1204,10 @@
     "matches": "119",
     "PlayerId": "47",
     "PlayerName": "Mohammad Shami",
-    "teams": ["Sunrisers Hyderabad", "Gujarat Titans"],
+    "teams": [
+      "Sunrisers Hyderabad",
+      "Gujarat Titans"
+    ],
     "Batting": {
       "Innings": 29,
       "Runs": 84,
@@ -2091,43 +1228,6 @@
       "Overs": "434.30",
       "Runs": 3749,
       "Wickets": 133
-    }
-  },
-  "95": {
-    "dob": "18 May 1989",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/95.png",
-    "iplDebut": "2008",
-    "specialization": "Wicketkeeper Batter",
-    "matches": "31",
-    "PlayerId": "223",
-    "PlayerName": "Shreevats Goswami",
-    "teams": [
-      "Sunrisers Hyderabad",
-      "Rajasthan Royals",
-      "Kolkata Knight Riders",
-      "Royal Challengers Bangalore"
-    ],
-    "Batting": {
-      "Innings": 21,
-      "Runs": 293,
-      "Balls": 295,
-      "HighestScore": "52",
-      "Fifties": 1,
-      "Hundreds": 0,
-      "Sixes": 3,
-      "Fours": 32,
-      "StrikeRate": 99.32,
-      "BattingAvg": 14.65,
-      "NotOuts": 1,
-      "Catches": 17,
-      "Stumpings": 7
-    },
-    "Bowling": {
-      "Innings": 0,
-      "Overs": "0.00",
-      "Runs": 0,
-      "Wickets": 0
     }
   },
   "96": {
@@ -2175,7 +1275,9 @@
     "matches": "78",
     "PlayerId": "233",
     "PlayerName": "Sachin Tendulkar",
-    "teams": ["Mumbai Indians"],
+    "teams": [
+      "Mumbai Indians"
+    ],
     "Batting": {
       "Innings": 78,
       "Runs": 2334,
@@ -2198,38 +1300,6 @@
       "Wickets": 0
     }
   },
-  "99": {
-    "dob": "07 November 1987",
-    "nationality": "Indian",
-    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/99.png",
-    "iplDebut": "2010",
-    "specialization": "Wicketkeeper Batter",
-    "matches": "35",
-    "PlayerId": "158",
-    "PlayerName": "Aditya Tare",
-    "teams": ["Delhi Capitals", "Sunrisers Hyderabad", "Mumbai Indians"],
-    "Batting": {
-      "Innings": 28,
-      "Runs": 339,
-      "Balls": 273,
-      "HighestScore": "59",
-      "Fifties": 1,
-      "Hundreds": 0,
-      "Sixes": 11,
-      "Fours": 40,
-      "StrikeRate": 124.18,
-      "BattingAvg": 14.13,
-      "NotOuts": 4,
-      "Catches": 3,
-      "Stumpings": 5
-    },
-    "Bowling": {
-      "Innings": 0,
-      "Overs": "0.00",
-      "Runs": 0,
-      "Wickets": 0
-    }
-  },
   "100": {
     "dob": "23 September 1985",
     "nationality": "Indian",
@@ -2239,7 +1309,9 @@
     "matches": "204",
     "PlayerId": "60",
     "PlayerName": "Ambati Rayudu",
-    "teams": ["Chennai Super Kings"],
+    "teams": [
+      "Chennai Super Kings"
+    ],
     "Batting": {
       "Innings": 164,
       "Runs": 3916,
@@ -2260,6 +1332,4409 @@
       "Overs": "3.00",
       "Runs": 22,
       "Wickets": 0
+    }
+  },
+  "101": {
+    "dob": "10 December 1988",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/101.png",
+    "iplDebut": "2008",
+    "specialization": "Bowler",
+    "matches": "92",
+    "PlayerId": "178",
+    "PlayerName": "Dhawal Kulkarni",
+    "teams": [
+      "Mumbai Indians",
+      "Rajasthan Royals"
+    ],
+    "Batting": {
+      "Innings": 22,
+      "Runs": 100,
+      "Balls": 107,
+      "HighestScore": "28*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 2,
+      "Fours": 6,
+      "StrikeRate": 93.46,
+      "BattingAvg": 11.11,
+      "NotOuts": 13,
+      "Catches": 22,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 92,
+      "Overs": "297.80",
+      "Runs": 2474,
+      "Wickets": 86
+    }
+  },
+  "102": {
+    "dob": "01 June 1985",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2024/13.png",
+    "iplDebut": "2008",
+    "specialization": "Wicketkeeper Batter",
+    "matches": "257",
+    "PlayerId": "13",
+    "PlayerName": "Dinesh Karthik",
+    "teams": [
+      "Royal Challengers Bengaluru"
+    ],
+    "Batting": {
+      "Innings": 234,
+      "Runs": 4842,
+      "Balls": 3577,
+      "HighestScore": "97*",
+      "Fifties": 22,
+      "Hundreds": 0,
+      "Sixes": 161,
+      "Fours": 466,
+      "StrikeRate": 135.36,
+      "BattingAvg": 26.32,
+      "NotOuts": 50,
+      "Catches": 145,
+      "Stumpings": 37
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "103": {
+    "dob": "03 July 1980",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/103.png",
+    "iplDebut": "2008",
+    "specialization": "All Rounder",
+    "matches": "163",
+    "PlayerId": "95",
+    "PlayerName": "Harbhajan Singh",
+    "teams": [
+      "Kolkata Knight Riders",
+      "Chennai Super Kings",
+      "Mumbai Indians"
+    ],
+    "Batting": {
+      "Innings": 90,
+      "Runs": 833,
+      "Balls": 604,
+      "HighestScore": "64",
+      "Fifties": 1,
+      "Hundreds": 0,
+      "Sixes": 42,
+      "Fours": 79,
+      "StrikeRate": 137.91,
+      "BattingAvg": 15.72,
+      "NotOuts": 37,
+      "Catches": 49,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 160,
+      "Overs": "569.30",
+      "Runs": 4030,
+      "Wickets": 150
+    }
+  },
+  "106": {
+    "dob": "05 September 1986",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2008",
+    "specialization": "Bowler",
+    "matches": "92",
+    "PlayerId": "459",
+    "PlayerName": "Pragyan Ojha",
+    "teams": [
+      "Mumbai Indians"
+    ],
+    "Batting": {
+      "Innings": 20,
+      "Runs": 13,
+      "Balls": 37,
+      "HighestScore": "4*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 0,
+      "Fours": 0,
+      "StrikeRate": 35.14,
+      "BattingAvg": 1.18,
+      "NotOuts": 9,
+      "Catches": 12,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 78,
+      "Overs": "270.50",
+      "Runs": 1952,
+      "Wickets": 85
+    }
+  },
+  "107": {
+    "dob": "30 April 1987",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/6.png",
+    "iplDebut": "2008",
+    "specialization": "Batter",
+    "matches": "272",
+    "PlayerId": "6",
+    "PlayerName": "Rohit Sharma",
+    "teams": [
+      "Mumbai Indians"
+    ],
+    "Batting": {
+      "Innings": 267,
+      "Runs": 7046,
+      "Balls": 5334,
+      "HighestScore": "109*",
+      "Fifties": 47,
+      "Hundreds": 2,
+      "Sixes": 302,
+      "Fours": 640,
+      "StrikeRate": 132.1,
+      "BattingAvg": 29.73,
+      "NotOuts": 30,
+      "Catches": 102,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 32,
+      "Overs": "60.50",
+      "Runs": 453,
+      "Wickets": 15
+    }
+  },
+  "108": {
+    "dob": "14 September 1990",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/174.png",
+    "iplDebut": "2012",
+    "specialization": "Batter",
+    "matches": "166",
+    "PlayerId": "174",
+    "PlayerName": "Suryakumar Yadav",
+    "teams": [
+      "Mumbai Indians"
+    ],
+    "Batting": {
+      "Innings": 150,
+      "Runs": 4311,
+      "Balls": 2900,
+      "HighestScore": "103*",
+      "Fifties": 29,
+      "Hundreds": 2,
+      "Sixes": 168,
+      "Fours": 454,
+      "StrikeRate": 148.66,
+      "BattingAvg": 35.34,
+      "NotOuts": 28,
+      "Catches": 74,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 1,
+      "Overs": "1.00",
+      "Runs": 8,
+      "Wickets": 0
+    }
+  },
+  "111": {
+    "dob": "23 July 1990",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/10.png",
+    "iplDebut": "2013",
+    "specialization": "Bowler",
+    "matches": "174",
+    "PlayerId": "10",
+    "PlayerName": "Yuzvendra Chahal",
+    "teams": [
+      "Punjab Kings"
+    ],
+    "Batting": {
+      "Innings": 20,
+      "Runs": 37,
+      "Balls": 86,
+      "HighestScore": "8*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 0,
+      "Fours": 0,
+      "StrikeRate": 43.02,
+      "BattingAvg": 5.29,
+      "NotOuts": 13,
+      "Catches": 32,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 172,
+      "Overs": "631.80",
+      "Runs": 5032,
+      "Wickets": 221
+    }
+  },
+  "112": {
+    "dob": "06 December 1985",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2008",
+    "specialization": "Bowler",
+    "matches": "82",
+    "PlayerId": "0",
+    "PlayerName": "RP Singh",
+    "teams": [
+      "Mumbai Indians"
+    ],
+    "Batting": {
+      "Innings": 30,
+      "Runs": 52,
+      "Balls": 76,
+      "HighestScore": "10",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 1,
+      "Fours": 2,
+      "StrikeRate": 68.42,
+      "BattingAvg": 3.47,
+      "NotOuts": 15,
+      "Catches": 16,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 82,
+      "Overs": "295.80",
+      "Runs": 2338,
+      "Wickets": 90
+    }
+  },
+  "113": {
+    "dob": "12 December 1981",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/113.png",
+    "iplDebut": "2008",
+    "specialization": "All Rounder",
+    "matches": "132",
+    "PlayerId": "175",
+    "PlayerName": "Yuvraj Singh",
+    "teams": [
+      "Mumbai Indians",
+      "Punjab Kings",
+      "Sunrisers Hyderabad",
+      "Delhi Capitals",
+      "Royal Challengers Bangalore"
+    ],
+    "Batting": {
+      "Innings": 126,
+      "Runs": 2750,
+      "Balls": 2120,
+      "HighestScore": "83",
+      "Fifties": 13,
+      "Hundreds": 0,
+      "Sixes": 149,
+      "Fours": 217,
+      "StrikeRate": 129.72,
+      "BattingAvg": 24.77,
+      "NotOuts": 15,
+      "Catches": 34,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 73,
+      "Overs": "144.80",
+      "Runs": 1077,
+      "Wickets": 36
+    }
+  },
+  "115": {
+    "dob": "29 April 1979",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2008",
+    "specialization": "Bowler",
+    "matches": "88",
+    "PlayerId": "0",
+    "PlayerName": "Ashish Nehra",
+    "teams": [
+      "Sunrisers Hyderabad",
+      "Chennai Super Kings",
+      "Delhi Capitals",
+      "Mumbai Indians"
+    ],
+    "Batting": {
+      "Innings": 14,
+      "Runs": 39,
+      "Balls": 53,
+      "HighestScore": "22*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 1,
+      "Fours": 3,
+      "StrikeRate": 73.58,
+      "BattingAvg": 13,
+      "NotOuts": 11,
+      "Catches": 15,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 75,
+      "Overs": "267.00",
+      "Runs": 2149,
+      "Wickets": 87
+    }
+  },
+  "116": {
+    "dob": "05 February 1990",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/15.png",
+    "iplDebut": "2011",
+    "specialization": "Bowler",
+    "matches": "190",
+    "PlayerId": "15",
+    "PlayerName": "Bhuvneshwar Kumar",
+    "teams": [
+      "Royal Challengers Bengaluru",
+      "Sunrisers Hyderabad"
+    ],
+    "Batting": {
+      "Innings": 74,
+      "Runs": 320,
+      "Balls": 351,
+      "HighestScore": "27",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 3,
+      "Fours": 31,
+      "StrikeRate": 91.17,
+      "BattingAvg": 8.21,
+      "NotOuts": 35,
+      "Catches": 38,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 190,
+      "Overs": "703.70",
+      "Runs": 5412,
+      "Wickets": 198
+    }
+  },
+  "123": {
+    "dob": "10 September 1989",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/16.png",
+    "iplDebut": "2008",
+    "specialization": "Batter",
+    "matches": "174",
+    "PlayerId": "16",
+    "PlayerName": "Manish Pandey",
+    "teams": [
+      "Kolkata Knight Riders",
+      "Delhi Capitals",
+      "Lucknow Super Giants"
+    ],
+    "Batting": {
+      "Innings": 162,
+      "Runs": 3942,
+      "Balls": 3244,
+      "HighestScore": "114*",
+      "Fifties": 22,
+      "Hundreds": 1,
+      "Sixes": 115,
+      "Fours": 340,
+      "StrikeRate": 121.52,
+      "BattingAvg": 29.42,
+      "NotOuts": 28,
+      "Catches": 86,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "125": {
+    "dob": "11 September 1976",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2008",
+    "specialization": "Bowler",
+    "matches": "56",
+    "PlayerId": "0",
+    "PlayerName": "Murali Kartik",
+    "teams": [
+      "Royal Challengers Bangalore",
+      "Kolkata Knight Riders"
+    ],
+    "Batting": {
+      "Innings": 16,
+      "Runs": 113,
+      "Balls": 108,
+      "HighestScore": "21",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 1,
+      "Fours": 7,
+      "StrikeRate": 104.63,
+      "BattingAvg": 16.14,
+      "NotOuts": 9,
+      "Catches": 19,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 55,
+      "Overs": "191.50",
+      "Runs": 1388,
+      "Wickets": 31
+    }
+  },
+  "127": {
+    "dob": "11 November 1985",
+    "nationality": "Indian",
+    "profilePhoto": "https://assets.iplt20.com/ipl/IPLHeadshot2022/127.png",
+    "iplDebut": "2008",
+    "specialization": "Batter",
+    "matches": "205",
+    "PlayerId": "153",
+    "PlayerName": "Robin Uthappa",
+    "teams": [
+      "Chennai Super Kings"
+    ],
+    "Batting": {
+      "Innings": 197,
+      "Runs": 4952,
+      "Balls": 3799,
+      "HighestScore": "88",
+      "Fifties": 27,
+      "Hundreds": 0,
+      "Sixes": 182,
+      "Fours": 481,
+      "StrikeRate": 130.35,
+      "BattingAvg": 27.51,
+      "NotOuts": 17,
+      "Catches": 92,
+      "Stumpings": 32
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "130": {
+    "dob": "08 July 1972",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2008",
+    "specialization": "All Rounder",
+    "matches": "59",
+    "PlayerId": "0",
+    "PlayerName": "Sourav Ganguly",
+    "teams": [
+      "Kolkata Knight Riders"
+    ],
+    "Batting": {
+      "Innings": 56,
+      "Runs": 1349,
+      "Balls": 1263,
+      "HighestScore": "91",
+      "Fifties": 7,
+      "Hundreds": 0,
+      "Sixes": 42,
+      "Fours": 137,
+      "StrikeRate": 106.81,
+      "BattingAvg": 25.45,
+      "NotOuts": 3,
+      "Catches": 21,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 20,
+      "Overs": "46.00",
+      "Runs": 363,
+      "Wickets": 10
+    }
+  },
+  "131": {
+    "dob": "11 January 1973",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2008",
+    "specialization": "Batter",
+    "matches": "89",
+    "PlayerId": "0",
+    "PlayerName": "Rahul Dravid",
+    "teams": [
+      "Rajasthan Royals",
+      "Royal Challengers Bangalore"
+    ],
+    "Batting": {
+      "Innings": 82,
+      "Runs": 2174,
+      "Balls": 1882,
+      "HighestScore": "75*",
+      "Fifties": 11,
+      "Hundreds": 0,
+      "Sixes": 28,
+      "Fours": 269,
+      "StrikeRate": 115.52,
+      "BattingAvg": 28.23,
+      "NotOuts": 5,
+      "Catches": 18,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "135": {
+    "dob": "06 June 1988",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/44.png",
+    "iplDebut": "2008",
+    "specialization": "Batter",
+    "matches": "198",
+    "PlayerId": "44",
+    "PlayerName": "Ajinkya Rahane",
+    "teams": [
+      "Kolkata Knight Riders",
+      "Chennai Super Kings"
+    ],
+    "Batting": {
+      "Innings": 183,
+      "Runs": 5032,
+      "Balls": 4025,
+      "HighestScore": "105*",
+      "Fifties": 33,
+      "Hundreds": 2,
+      "Sixes": 123,
+      "Fours": 514,
+      "StrikeRate": 125.02,
+      "BattingAvg": 30.5,
+      "NotOuts": 18,
+      "Catches": 76,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 1,
+      "Overs": "1.00",
+      "Runs": 5,
+      "Wickets": 1
+    }
+  },
+  "140": {
+    "dob": "07 August 1992",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/91.png",
+    "iplDebut": "2016",
+    "specialization": "Bowler",
+    "matches": "95",
+    "PlayerId": "91",
+    "PlayerName": "Deepak Chahar",
+    "teams": [
+      "Mumbai Indians",
+      "Chennai Super Kings"
+    ],
+    "Batting": {
+      "Innings": 17,
+      "Runs": 117,
+      "Balls": 84,
+      "HighestScore": "39",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 8,
+      "Fours": 5,
+      "StrikeRate": 139.29,
+      "BattingAvg": 14.63,
+      "NotOuts": 9,
+      "Catches": 15,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 95,
+      "Overs": "319.20",
+      "Runs": 2597,
+      "Wickets": 88
+    }
+  },
+  "147": {
+    "dob": "04 September 1982",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2008",
+    "specialization": "Bowler",
+    "matches": "76",
+    "PlayerId": "0",
+    "PlayerName": "Siddharth Trivedi",
+    "teams": [
+      "Rajasthan Royals"
+    ],
+    "Batting": {
+      "Innings": 13,
+      "Runs": 42,
+      "Balls": 57,
+      "HighestScore": "9*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 1,
+      "Fours": 3,
+      "StrikeRate": 73.68,
+      "BattingAvg": 7,
+      "NotOuts": 7,
+      "Catches": 17,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 75,
+      "Overs": "251.00",
+      "Runs": 1904,
+      "Wickets": 65
+    }
+  },
+  "148": {
+    "dob": "03 June 1984",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/148.png",
+    "iplDebut": "2010",
+    "specialization": "All Rounder",
+    "matches": "95",
+    "PlayerId": "195",
+    "PlayerName": "Stuart Binny",
+    "teams": [
+      "Rajasthan Royals",
+      "Royal Challengers Bangalore",
+      "Mumbai Indians"
+    ],
+    "Batting": {
+      "Innings": 68,
+      "Runs": 880,
+      "Balls": 683,
+      "HighestScore": "48",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 35,
+      "Fours": 66,
+      "StrikeRate": 128.84,
+      "BattingAvg": 19.56,
+      "NotOuts": 23,
+      "Catches": 17,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 63,
+      "Overs": "99.00",
+      "Runs": 758,
+      "Wickets": 22
+    }
+  },
+  "157": {
+    "dob": "23 November 1990",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/114.png",
+    "iplDebut": "2012",
+    "specialization": "All Rounder",
+    "matches": "119",
+    "PlayerId": "114",
+    "PlayerName": "Harshal Patel",
+    "teams": [
+      "Sunrisers Hyderabad",
+      "Punjab Kings",
+      "Royal Challengers Bengaluru"
+    ],
+    "Batting": {
+      "Innings": 46,
+      "Runs": 270,
+      "Balls": 229,
+      "HighestScore": "36*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 15,
+      "Fours": 16,
+      "StrikeRate": 117.9,
+      "BattingAvg": 9.31,
+      "NotOuts": 17,
+      "Catches": 28,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 116,
+      "Overs": "404.00",
+      "Runs": 3579,
+      "Wickets": 151
+    }
+  },
+  "158": {
+    "dob": "18 February 1991",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/55.png",
+    "iplDebut": "2011",
+    "specialization": "Batter",
+    "matches": "131",
+    "PlayerId": "55",
+    "PlayerName": "Mayank Agarwal",
+    "teams": [
+      "Royal Challengers Bengaluru",
+      "Sunrisers Hyderabad",
+      "Punjab Kings"
+    ],
+    "Batting": {
+      "Innings": 125,
+      "Runs": 2756,
+      "Balls": 2064,
+      "HighestScore": "106",
+      "Fifties": 13,
+      "Hundreds": 1,
+      "Sixes": 100,
+      "Fours": 273,
+      "StrikeRate": 133.53,
+      "BattingAvg": 22.97,
+      "NotOuts": 5,
+      "Catches": 58,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "163": {
+    "dob": "30 December 1989",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/163.png",
+    "iplDebut": "2008",
+    "specialization": "Batter",
+    "matches": "93",
+    "PlayerId": "540",
+    "PlayerName": "Saurabh Tiwary",
+    "teams": [
+      "Mumbai Indians",
+      "Delhi Capitals",
+      "Royal Challengers Bangalore"
+    ],
+    "Batting": {
+      "Innings": 73,
+      "Runs": 1494,
+      "Balls": 1244,
+      "HighestScore": "61",
+      "Fifties": 8,
+      "Hundreds": 0,
+      "Sixes": 50,
+      "Fours": 111,
+      "StrikeRate": 120.1,
+      "BattingAvg": 28.73,
+      "NotOuts": 21,
+      "Catches": 25,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "164": {
+    "dob": "05 November 1988",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/2.png",
+    "iplDebut": "2008",
+    "specialization": "Batter",
+    "matches": "267",
+    "PlayerId": "2",
+    "PlayerName": "Virat Kohli",
+    "teams": [
+      "Royal Challengers Bengaluru"
+    ],
+    "Batting": {
+      "Innings": 259,
+      "Runs": 8661,
+      "Balls": 6519,
+      "HighestScore": "113",
+      "Fifties": 63,
+      "Hundreds": 8,
+      "Sixes": 291,
+      "Fours": 771,
+      "StrikeRate": 132.86,
+      "BattingAvg": 39.55,
+      "NotOuts": 40,
+      "Catches": 118,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 26,
+      "Overs": "41.80",
+      "Runs": 368,
+      "Wickets": 4
+    }
+  },
+  "165": {
+    "dob": "07 October 1978",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2008",
+    "specialization": "Bowler",
+    "matches": "100",
+    "PlayerId": "462",
+    "PlayerName": "Zaheer Khan",
+    "teams": [
+      "Delhi Capitals",
+      "Mumbai Indians",
+      "Royal Challengers Bangalore"
+    ],
+    "Batting": {
+      "Innings": 32,
+      "Runs": 117,
+      "Balls": 141,
+      "HighestScore": "23*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 2,
+      "Fours": 11,
+      "StrikeRate": 82.98,
+      "BattingAvg": 8.36,
+      "NotOuts": 18,
+      "Catches": 21,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 99,
+      "Overs": "366.70",
+      "Runs": 2782,
+      "Wickets": 102
+    }
+  },
+  "166": {
+    "dob": "12 February 1984",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/166.png",
+    "iplDebut": "2008",
+    "specialization": "Bowler",
+    "matches": "105",
+    "PlayerId": "0",
+    "PlayerName": "Vinay Kumar",
+    "teams": [
+      "Kolkata Knight Riders",
+      "Mumbai Indians",
+      "Royal Challengers Bangalore"
+    ],
+    "Batting": {
+      "Innings": 46,
+      "Runs": 310,
+      "Balls": 274,
+      "HighestScore": "26",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 9,
+      "Fours": 21,
+      "StrikeRate": 113.14,
+      "BattingAvg": 11.07,
+      "NotOuts": 18,
+      "Catches": 38,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 104,
+      "Overs": "353.50",
+      "Runs": 2966,
+      "Wickets": 105
+    }
+  },
+  "167": {
+    "dob": "17 November 1986",
+    "nationality": "Australian",
+    "profilePhoto": "https://assets.iplt20.com/ipl/IPLHeadshot2022/167.png",
+    "iplDebut": "2010",
+    "specialization": "Batter",
+    "matches": "92",
+    "PlayerId": "3",
+    "PlayerName": "Aaron Finch",
+    "teams": [
+      "Kolkata Knight Riders"
+    ],
+    "Batting": {
+      "Innings": 90,
+      "Runs": 2091,
+      "Balls": 1631,
+      "HighestScore": "88*",
+      "Fifties": 15,
+      "Hundreds": 0,
+      "Sixes": 78,
+      "Fours": 214,
+      "StrikeRate": 128.2,
+      "BattingAvg": 25.19,
+      "NotOuts": 7,
+      "Catches": 28,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 5,
+      "Overs": "7.20",
+      "Runs": 67,
+      "Wickets": 1
+    }
+  },
+  "169": {
+    "dob": "06 October 1984",
+    "nationality": "South African",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2009",
+    "specialization": "Bowler",
+    "matches": "70",
+    "PlayerId": "0",
+    "PlayerName": "Morne Morkel",
+    "teams": [
+      "Kolkata Knight Riders",
+      "Delhi Capitals",
+      "Rajasthan Royals"
+    ],
+    "Batting": {
+      "Innings": 23,
+      "Runs": 126,
+      "Balls": 90,
+      "HighestScore": "23",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 5,
+      "Fours": 11,
+      "StrikeRate": 140,
+      "BattingAvg": 11.45,
+      "NotOuts": 12,
+      "Catches": 11,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 70,
+      "Overs": "271.50",
+      "Runs": 2089,
+      "Wickets": 77
+    }
+  },
+  "170": {
+    "dob": "27 October 1986",
+    "nationality": "Australian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2024/214.png",
+    "iplDebut": "2009",
+    "specialization": "Batter",
+    "matches": "184",
+    "PlayerId": "214",
+    "PlayerName": "David Warner",
+    "teams": [
+      "Delhi Capitals"
+    ],
+    "Batting": {
+      "Innings": 184,
+      "Runs": 6565,
+      "Balls": 4697,
+      "HighestScore": "126",
+      "Fifties": 62,
+      "Hundreds": 4,
+      "Sixes": 236,
+      "Fours": 663,
+      "StrikeRate": 139.77,
+      "BattingAvg": 40.52,
+      "NotOuts": 22,
+      "Catches": 83,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 1,
+      "Overs": "0.20",
+      "Runs": 2,
+      "Wickets": 0
+    }
+  },
+  "175": {
+    "dob": "27 May 1977",
+    "nationality": "Sri Lankan",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2008",
+    "specialization": "Batter",
+    "matches": "80",
+    "PlayerId": "0",
+    "PlayerName": "Mahela Jayawardena",
+    "teams": [
+      "Delhi Capitals",
+      "Punjab Kings"
+    ],
+    "Batting": {
+      "Innings": 78,
+      "Runs": 1802,
+      "Balls": 1462,
+      "HighestScore": "110*",
+      "Fifties": 10,
+      "Hundreds": 1,
+      "Sixes": 39,
+      "Fours": 200,
+      "StrikeRate": 123.26,
+      "BattingAvg": 28.6,
+      "NotOuts": 15,
+      "Catches": 32,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "177": {
+    "dob": "29 April 1988",
+    "nationality": "West Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/141.png",
+    "iplDebut": "2012",
+    "specialization": "All Rounder",
+    "matches": "140",
+    "PlayerId": "141",
+    "PlayerName": "Andre Russell",
+    "teams": [
+      "Kolkata Knight Riders"
+    ],
+    "Batting": {
+      "Innings": 115,
+      "Runs": 2651,
+      "Balls": 1522,
+      "HighestScore": "88*",
+      "Fifties": 12,
+      "Hundreds": 0,
+      "Sixes": 223,
+      "Fours": 186,
+      "StrikeRate": 174.18,
+      "BattingAvg": 28.2,
+      "NotOuts": 21,
+      "Catches": 40,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 121,
+      "Overs": "301.00",
+      "Runs": 2863,
+      "Wickets": 123
+    }
+  },
+  "180": {
+    "dob": "27 June 1983",
+    "nationality": "South African",
+    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/180.png",
+    "iplDebut": "2008",
+    "specialization": "Bowler",
+    "matches": "95",
+    "PlayerId": "230",
+    "PlayerName": "Dale Steyn",
+    "teams": [
+      "Royal Challengers Bangalore",
+      "Sunrisers Hyderabad"
+    ],
+    "Batting": {
+      "Innings": 36,
+      "Runs": 167,
+      "Balls": 160,
+      "HighestScore": "19*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 3,
+      "Fours": 14,
+      "StrikeRate": 104.38,
+      "BattingAvg": 7.59,
+      "NotOuts": 14,
+      "Catches": 24,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 95,
+      "Overs": "362.70",
+      "Runs": 2508,
+      "Wickets": 97
+    }
+  },
+  "182": {
+    "dob": "14 April 1984",
+    "nationality": "South African",
+    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/182.png",
+    "iplDebut": "2009",
+    "specialization": "All Rounder",
+    "matches": "83",
+    "PlayerId": "0",
+    "PlayerName": "JP Duminy",
+    "teams": [
+      "Mumbai Indians",
+      "Delhi Capitals"
+    ],
+    "Batting": {
+      "Innings": 77,
+      "Runs": 2029,
+      "Balls": 1636,
+      "HighestScore": "78",
+      "Fifties": 14,
+      "Hundreds": 0,
+      "Sixes": 79,
+      "Fours": 126,
+      "StrikeRate": 124.02,
+      "BattingAvg": 39.78,
+      "NotOuts": 26,
+      "Catches": 30,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 49,
+      "Overs": "113.00",
+      "Runs": 834,
+      "Wickets": 23
+    }
+  },
+  "186": {
+    "dob": "15 July 1977",
+    "nationality": "Australian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2008",
+    "specialization": "All Rounder",
+    "matches": "64",
+    "PlayerId": "0",
+    "PlayerName": "David Hussey",
+    "teams": [
+      "Chennai Super Kings",
+      "Punjab Kings",
+      "Kolkata Knight Riders"
+    ],
+    "Batting": {
+      "Innings": 61,
+      "Runs": 1322,
+      "Balls": 1075,
+      "HighestScore": "71",
+      "Fifties": 5,
+      "Hundreds": 0,
+      "Sixes": 60,
+      "Fours": 90,
+      "StrikeRate": 122.98,
+      "BattingAvg": 26.98,
+      "NotOuts": 12,
+      "Catches": 25,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 26,
+      "Overs": "52.80",
+      "Runs": 474,
+      "Wickets": 8
+    }
+  },
+  "187": {
+    "dob": "10 June 1989",
+    "nationality": "South African",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2012",
+    "specialization": "Batter",
+    "matches": "141",
+    "PlayerId": "128",
+    "PlayerName": "David Miller",
+    "teams": [
+      "Lucknow Super Giants",
+      "Gujarat Titans"
+    ],
+    "Batting": {
+      "Innings": 134,
+      "Runs": 3077,
+      "Balls": 2220,
+      "HighestScore": "101*",
+      "Fifties": 13,
+      "Hundreds": 1,
+      "Sixes": 138,
+      "Fours": 220,
+      "StrikeRate": 138.6,
+      "BattingAvg": 36.2,
+      "NotOuts": 49,
+      "Catches": 80,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "191": {
+    "dob": "09 July 1983",
+    "nationality": "Australian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2008",
+    "specialization": "Batter",
+    "matches": "71",
+    "PlayerId": "41",
+    "PlayerName": "Shaun Marsh",
+    "teams": [
+      "Punjab Kings"
+    ],
+    "Batting": {
+      "Innings": 69,
+      "Runs": 2477,
+      "Balls": 1866,
+      "HighestScore": "115",
+      "Fifties": 20,
+      "Hundreds": 1,
+      "Sixes": 78,
+      "Fours": 266,
+      "StrikeRate": 132.74,
+      "BattingAvg": 39.95,
+      "NotOuts": 7,
+      "Catches": 26,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "193": {
+    "dob": "29 April 1990",
+    "nationality": "Australian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2011",
+    "specialization": "All Rounder",
+    "matches": "60",
+    "PlayerId": "0",
+    "PlayerName": "James Faulkner",
+    "teams": [
+      "Rajasthan Royals",
+      "Punjab Kings"
+    ],
+    "Batting": {
+      "Innings": 45,
+      "Runs": 527,
+      "Balls": 389,
+      "HighestScore": "46*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 23,
+      "Fours": 36,
+      "StrikeRate": 135.48,
+      "BattingAvg": 21.08,
+      "NotOuts": 20,
+      "Catches": 16,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 60,
+      "Overs": "204.50",
+      "Runs": 1778,
+      "Wickets": 59
+    }
+  },
+  "197": {
+    "dob": "10 September 1986",
+    "nationality": "English",
+    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/197.png",
+    "iplDebut": "2010",
+    "specialization": "Batter",
+    "matches": "83",
+    "PlayerId": "308",
+    "PlayerName": "Eoin Morgan",
+    "teams": [
+      "Kolkata Knight Riders",
+      "Punjab Kings",
+      "Sunrisers Hyderabad",
+      "Royal Challengers Bangalore"
+    ],
+    "Batting": {
+      "Innings": 75,
+      "Runs": 1405,
+      "Balls": 1146,
+      "HighestScore": "68",
+      "Fifties": 5,
+      "Hundreds": 0,
+      "Sixes": 64,
+      "Fours": 112,
+      "StrikeRate": 122.6,
+      "BattingAvg": 22.66,
+      "NotOuts": 13,
+      "Catches": 36,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "198": {
+    "dob": "16 October 1975",
+    "nationality": "South African",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2008",
+    "specialization": "All Rounder",
+    "matches": "98",
+    "PlayerId": "0",
+    "PlayerName": "Jacques Kallis",
+    "teams": [
+      "Kolkata Knight Riders",
+      "Royal Challengers Bangalore"
+    ],
+    "Batting": {
+      "Innings": 96,
+      "Runs": 2427,
+      "Balls": 2222,
+      "HighestScore": "89",
+      "Fifties": 17,
+      "Hundreds": 0,
+      "Sixes": 44,
+      "Fours": 255,
+      "StrikeRate": 109.23,
+      "BattingAvg": 28.55,
+      "NotOuts": 11,
+      "Catches": 31,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 89,
+      "Overs": "290.30",
+      "Runs": 2293,
+      "Wickets": 65
+    }
+  },
+  "201": {
+    "dob": "24 March 1987",
+    "nationality": "Bangladeshi",
+    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/201.png",
+    "iplDebut": "2011",
+    "specialization": "All Rounder",
+    "matches": "71",
+    "PlayerId": "222",
+    "PlayerName": "Shakib Al Hasan",
+    "teams": [
+      "Kolkata Knight Riders",
+      "Sunrisers Hyderabad"
+    ],
+    "Batting": {
+      "Innings": 52,
+      "Runs": 793,
+      "Balls": 637,
+      "HighestScore": "66*",
+      "Fifties": 2,
+      "Hundreds": 0,
+      "Sixes": 21,
+      "Fours": 73,
+      "StrikeRate": 124.49,
+      "BattingAvg": 19.83,
+      "NotOuts": 12,
+      "Catches": 14,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 70,
+      "Overs": "247.30",
+      "Runs": 1839,
+      "Wickets": 63
+    }
+  },
+  "202": {
+    "dob": "27 September 1981",
+    "nationality": "New Zealander",
+    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/202.png",
+    "iplDebut": "2008",
+    "specialization": "Wicketkeeper Batter",
+    "matches": "109",
+    "PlayerId": "0",
+    "PlayerName": "Brendon McCullum",
+    "teams": [
+      "Royal Challengers Bangalore",
+      "Chennai Super Kings",
+      "Kolkata Knight Riders"
+    ],
+    "Batting": {
+      "Innings": 109,
+      "Runs": 2880,
+      "Balls": 2186,
+      "HighestScore": "158*",
+      "Fifties": 13,
+      "Hundreds": 2,
+      "Sixes": 130,
+      "Fours": 293,
+      "StrikeRate": 131.75,
+      "BattingAvg": 27.69,
+      "NotOuts": 5,
+      "Catches": 37,
+      "Stumpings": 6
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "203": {
+    "dob": "26 May 1988",
+    "nationality": "West Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/156.png",
+    "iplDebut": "2012",
+    "specialization": "Bowler",
+    "matches": "189",
+    "PlayerId": "156",
+    "PlayerName": "Sunil Narine",
+    "teams": [
+      "Kolkata Knight Riders"
+    ],
+    "Batting": {
+      "Innings": 122,
+      "Runs": 1780,
+      "Balls": 1069,
+      "HighestScore": "109",
+      "Fifties": 7,
+      "Hundreds": 1,
+      "Sixes": 116,
+      "Fours": 189,
+      "StrikeRate": 166.51,
+      "BattingAvg": 17.62,
+      "NotOuts": 21,
+      "Catches": 36,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 187,
+      "Overs": "724.30",
+      "Runs": 4922,
+      "Wickets": 192
+    }
+  },
+  "210": {
+    "dob": "12 May 1987",
+    "nationality": "West Indian",
+    "profilePhoto": "https://assets.iplt20.com/ipl/IPLHeadshot2022/210.png",
+    "iplDebut": "2010",
+    "specialization": "All Rounder",
+    "matches": "189",
+    "PlayerId": "166",
+    "PlayerName": "Kieron Pollard",
+    "teams": [
+      "Mumbai Indians"
+    ],
+    "Batting": {
+      "Innings": 171,
+      "Runs": 3412,
+      "Balls": 2316,
+      "HighestScore": "87*",
+      "Fifties": 16,
+      "Hundreds": 0,
+      "Sixes": 223,
+      "Fours": 218,
+      "StrikeRate": 147.32,
+      "BattingAvg": 28.67,
+      "NotOuts": 52,
+      "Catches": 103,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 107,
+      "Overs": "248.00",
+      "Runs": 2180,
+      "Wickets": 69
+    }
+  },
+  "211": {
+    "dob": "28 August 1983",
+    "nationality": "Sri Lankan",
+    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/211.png",
+    "iplDebut": "2009",
+    "specialization": "Bowler",
+    "matches": "122",
+    "PlayerId": "167",
+    "PlayerName": "Lasith Malinga",
+    "teams": [
+      "Mumbai Indians"
+    ],
+    "Batting": {
+      "Innings": 25,
+      "Runs": 88,
+      "Balls": 99,
+      "HighestScore": "17*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 5,
+      "Fours": 6,
+      "StrikeRate": 88.89,
+      "BattingAvg": 5.5,
+      "NotOuts": 9,
+      "Catches": 20,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 122,
+      "Overs": "471.20",
+      "Runs": 3366,
+      "Wickets": 170
+    }
+  },
+  "213": {
+    "dob": "02 November 1981",
+    "nationality": "Australian",
+    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/213.png",
+    "iplDebut": "2012",
+    "specialization": "All Rounder",
+    "matches": "54",
+    "PlayerId": "0",
+    "PlayerName": "Mitchell Johnson",
+    "teams": [
+      "Kolkata Knight Riders",
+      "Mumbai Indians",
+      "Punjab Kings"
+    ],
+    "Batting": {
+      "Innings": 30,
+      "Runs": 167,
+      "Balls": 164,
+      "HighestScore": "16",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 7,
+      "Fours": 10,
+      "StrikeRate": 101.83,
+      "BattingAvg": 12.85,
+      "NotOuts": 17,
+      "Catches": 15,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 54,
+      "Overs": "205.30",
+      "Runs": 1702,
+      "Wickets": 61
+    }
+  },
+  "221": {
+    "dob": "20 October 1991",
+    "nationality": "Australian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/40.png",
+    "iplDebut": "2010",
+    "specialization": "All Rounder",
+    "matches": "55",
+    "PlayerId": "40",
+    "PlayerName": "Mitchell Marsh",
+    "teams": [
+      "Lucknow Super Giants",
+      "Delhi Capitals"
+    ],
+    "Batting": {
+      "Innings": 49,
+      "Runs": 1293,
+      "Balls": 904,
+      "HighestScore": "117",
+      "Fifties": 9,
+      "Hundreds": 1,
+      "Sixes": 75,
+      "Fours": 104,
+      "StrikeRate": 143.03,
+      "BattingAvg": 27.51,
+      "NotOuts": 2,
+      "Catches": 11,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 34,
+      "Overs": "93.30",
+      "Runs": 795,
+      "Wickets": 37
+    }
+  },
+  "226": {
+    "dob": "08 March 1984",
+    "nationality": "New Zealander",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2008",
+    "specialization": "Batter",
+    "matches": "55",
+    "PlayerId": "78",
+    "PlayerName": "Ross Taylor",
+    "teams": [
+      "Delhi Capitals",
+      "Rajasthan Royals",
+      "Royal Challengers Bangalore"
+    ],
+    "Batting": {
+      "Innings": 54,
+      "Runs": 1017,
+      "Balls": 822,
+      "HighestScore": "81",
+      "Fifties": 3,
+      "Hundreds": 0,
+      "Sixes": 46,
+      "Fours": 66,
+      "StrikeRate": 123.72,
+      "BattingAvg": 25.43,
+      "NotOuts": 14,
+      "Catches": 16,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 2,
+      "Overs": "2.00",
+      "Runs": 24,
+      "Wickets": 0
+    }
+  },
+  "227": {
+    "dob": "17 June 1981",
+    "nationality": "Australian",
+    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/227.png",
+    "iplDebut": "2008",
+    "specialization": "All Rounder",
+    "matches": "145",
+    "PlayerId": "104",
+    "PlayerName": "Shane Watson",
+    "teams": [
+      "Chennai Super Kings",
+      "Royal Challengers Bangalore",
+      "Rajasthan Royals"
+    ],
+    "Batting": {
+      "Innings": 141,
+      "Runs": 3874,
+      "Balls": 2809,
+      "HighestScore": "117*",
+      "Fifties": 21,
+      "Hundreds": 4,
+      "Sixes": 190,
+      "Fours": 376,
+      "StrikeRate": 137.91,
+      "BattingAvg": 30.99,
+      "NotOuts": 16,
+      "Catches": 40,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 105,
+      "Overs": "338.20",
+      "Runs": 2682,
+      "Wickets": 92
+    }
+  },
+  "229": {
+    "dob": "29 December 1974",
+    "nationality": "Australian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2008",
+    "specialization": "Batter",
+    "matches": "66",
+    "PlayerId": "449",
+    "PlayerName": "Brad Hodge",
+    "teams": [
+      "Rajasthan Royals",
+      "Kolkata Knight Riders"
+    ],
+    "Batting": {
+      "Innings": 63,
+      "Runs": 1400,
+      "Balls": 1118,
+      "HighestScore": "73",
+      "Fifties": 6,
+      "Hundreds": 0,
+      "Sixes": 43,
+      "Fours": 122,
+      "StrikeRate": 125.22,
+      "BattingAvg": 33.33,
+      "NotOuts": 21,
+      "Catches": 22,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 20,
+      "Overs": "39.00",
+      "Runs": 303,
+      "Wickets": 17
+    }
+  },
+  "233": {
+    "dob": "17 February 1984",
+    "nationality": "South African",
+    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/233.png",
+    "iplDebut": "2008",
+    "specialization": "Wicketkeeper Batter",
+    "matches": "184",
+    "PlayerId": "198",
+    "PlayerName": "AB de Villiers",
+    "teams": [
+      "Royal Challengers Bangalore",
+      "Delhi Capitals"
+    ],
+    "Batting": {
+      "Innings": 170,
+      "Runs": 5162,
+      "Balls": 3403,
+      "HighestScore": "133*",
+      "Fifties": 40,
+      "Hundreds": 3,
+      "Sixes": 251,
+      "Fours": 413,
+      "StrikeRate": 151.69,
+      "BattingAvg": 39.71,
+      "NotOuts": 40,
+      "Catches": 118,
+      "Stumpings": 8
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "236": {
+    "dob": "21 September 1979",
+    "nationality": "West Indian",
+    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/236.png",
+    "iplDebut": "2009",
+    "specialization": "All Rounder",
+    "matches": "142",
+    "PlayerId": "126",
+    "PlayerName": "Chris Gayle",
+    "teams": [
+      "Punjab Kings",
+      "Royal Challengers Bangalore",
+      "Kolkata Knight Riders"
+    ],
+    "Batting": {
+      "Innings": 141,
+      "Runs": 4965,
+      "Balls": 3333,
+      "HighestScore": "175*",
+      "Fifties": 31,
+      "Hundreds": 6,
+      "Sixes": 357,
+      "Fours": 405,
+      "StrikeRate": 148.96,
+      "BattingAvg": 39.72,
+      "NotOuts": 16,
+      "Catches": 29,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 38,
+      "Overs": "92.30",
+      "Runs": 729,
+      "Wickets": 18
+    }
+  },
+  "258": {
+    "dob": "11 November 1994",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2013",
+    "specialization": "Wicketkeeper Batter",
+    "matches": "177",
+    "PlayerId": "190",
+    "PlayerName": "Sanju Samson",
+    "teams": [
+      "Rajasthan Royals"
+    ],
+    "Batting": {
+      "Innings": 172,
+      "Runs": 4704,
+      "Balls": 3383,
+      "HighestScore": "119",
+      "Fifties": 26,
+      "Hundreds": 3,
+      "Sixes": 219,
+      "Fours": 379,
+      "StrikeRate": 139.05,
+      "BattingAvg": 30.95,
+      "NotOuts": 20,
+      "Catches": 86,
+      "Stumpings": 17
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "261": {
+    "dob": "14 December 1994",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/14.png",
+    "iplDebut": "2016",
+    "specialization": "Bowler",
+    "matches": "98",
+    "PlayerId": "14",
+    "PlayerName": "Kuldeep Yadav",
+    "teams": [
+      "Delhi Capitals"
+    ],
+    "Batting": {
+      "Innings": 38,
+      "Runs": 201,
+      "Balls": 232,
+      "HighestScore": "35*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 3,
+      "Fours": 18,
+      "StrikeRate": 86.64,
+      "BattingAvg": 13.4,
+      "NotOuts": 23,
+      "Catches": 20,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 95,
+      "Overs": "342.00",
+      "Runs": 2751,
+      "Wickets": 102
+    }
+  },
+  "271": {
+    "dob": "02 June 1989",
+    "nationality": "Australian",
+    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/271.png",
+    "iplDebut": "2012",
+    "specialization": "All Rounder",
+    "matches": "103",
+    "PlayerId": "0",
+    "PlayerName": "Steve Smith",
+    "teams": [
+      "Delhi Capitals",
+      "Rajasthan Royals"
+    ],
+    "Batting": {
+      "Innings": 93,
+      "Runs": 2485,
+      "Balls": 1940,
+      "HighestScore": "101*",
+      "Fifties": 11,
+      "Hundreds": 1,
+      "Sixes": 60,
+      "Fours": 225,
+      "StrikeRate": 128.09,
+      "BattingAvg": 34.51,
+      "NotOuts": 21,
+      "Catches": 53,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 1,
+      "Overs": "0.30",
+      "Runs": 5,
+      "Wickets": 0
+    }
+  },
+  "276": {
+    "dob": "06 December 1991",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/131.png",
+    "iplDebut": "2013",
+    "specialization": "Batter",
+    "matches": "84",
+    "PlayerId": "131",
+    "PlayerName": "Karun Nair",
+    "teams": [
+      "Delhi Capitals",
+      "Rajasthan Royals"
+    ],
+    "Batting": {
+      "Innings": 76,
+      "Runs": 1694,
+      "Balls": 1286,
+      "HighestScore": "89",
+      "Fifties": 11,
+      "Hundreds": 0,
+      "Sixes": 49,
+      "Fours": 185,
+      "StrikeRate": 131.73,
+      "BattingAvg": 23.86,
+      "NotOuts": 5,
+      "Catches": 25,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "282": {
+    "dob": "14 October 1988",
+    "nationality": "Australian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/28.png",
+    "iplDebut": "2012",
+    "specialization": "All Rounder",
+    "matches": "141",
+    "PlayerId": "28",
+    "PlayerName": "Glenn Maxwell",
+    "teams": [
+      "Punjab Kings",
+      "Royal Challengers Bengaluru"
+    ],
+    "Batting": {
+      "Innings": 135,
+      "Runs": 2819,
+      "Balls": 1817,
+      "HighestScore": "95",
+      "Fifties": 18,
+      "Hundreds": 0,
+      "Sixes": 161,
+      "Fours": 237,
+      "StrikeRate": 155.15,
+      "BattingAvg": 23.89,
+      "NotOuts": 17,
+      "Catches": 52,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 85,
+      "Overs": "170.30",
+      "Runs": 1413,
+      "Wickets": 41
+    }
+  },
+  "292": {
+    "dob": "13 September 1969",
+    "nationality": "Australian",
+    "profilePhoto": "",
+    "iplDebut": "-",
+    "specialization": "N/A",
+    "matches": "55",
+    "PlayerId": "0",
+    "PlayerName": "Shane Warne",
+    "teams": [
+      "Rajasthan Royals"
+    ],
+    "Batting": {
+      "Innings": 29,
+      "Runs": 198,
+      "Balls": 214,
+      "HighestScore": "34*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 6,
+      "Fours": 14,
+      "StrikeRate": 92.52,
+      "BattingAvg": 9.9,
+      "NotOuts": 9,
+      "Catches": 16,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 54,
+      "Overs": "199.00",
+      "Runs": 1447,
+      "Wickets": 57
+    }
+  },
+  "297": {
+    "dob": "26 March 1985",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/297.png",
+    "iplDebut": "2010",
+    "specialization": "All Rounder",
+    "matches": "95",
+    "PlayerId": "58",
+    "PlayerName": "Kedar Jadhav",
+    "teams": [
+      "Sunrisers Hyderabad",
+      "Chennai Super Kings",
+      "Royal Challengers Bengaluru",
+      "Delhi Capitals"
+    ],
+    "Batting": {
+      "Innings": 80,
+      "Runs": 1196,
+      "Balls": 971,
+      "HighestScore": "69",
+      "Fifties": 4,
+      "Hundreds": 0,
+      "Sixes": 40,
+      "Fours": 101,
+      "StrikeRate": 123.17,
+      "BattingAvg": 22.15,
+      "NotOuts": 26,
+      "Catches": 28,
+      "Stumpings": 7
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "388": {
+    "dob": "01 February 1987",
+    "nationality": "Australian",
+    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/388.png",
+    "iplDebut": "2009",
+    "specialization": "All Rounder",
+    "matches": "62",
+    "PlayerId": "133",
+    "PlayerName": "Moises Henriques",
+    "teams": [
+      "Punjab Kings",
+      "Sunrisers Hyderabad",
+      "Royal Challengers Bangalore",
+      "Delhi Capitals",
+      "Kolkata Knight Riders"
+    ],
+    "Batting": {
+      "Innings": 54,
+      "Runs": 1000,
+      "Balls": 788,
+      "HighestScore": "74*",
+      "Fifties": 5,
+      "Hundreds": 0,
+      "Sixes": 28,
+      "Fours": 87,
+      "StrikeRate": 126.9,
+      "BattingAvg": 27.78,
+      "NotOuts": 18,
+      "Catches": 28,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 60,
+      "Overs": "158.30",
+      "Runs": 1289,
+      "Wickets": 42
+    }
+  },
+  "413": {
+    "dob": "12 April 1983",
+    "nationality": "West Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2008",
+    "specialization": "All Rounder",
+    "matches": "91",
+    "PlayerId": "0",
+    "PlayerName": "Dwayne Smith",
+    "teams": [
+      "Chennai Super Kings",
+      "Mumbai Indians"
+    ],
+    "Batting": {
+      "Innings": 89,
+      "Runs": 2385,
+      "Balls": 1764,
+      "HighestScore": "87",
+      "Fifties": 17,
+      "Hundreds": 0,
+      "Sixes": 117,
+      "Fours": 245,
+      "StrikeRate": 135.2,
+      "BattingAvg": 28.39,
+      "NotOuts": 5,
+      "Catches": 33,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 46,
+      "Overs": "89.80",
+      "Runs": 810,
+      "Wickets": 26
+    }
+  },
+  "440": {
+    "dob": "08 August 1990",
+    "nationality": "New Zealander",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2024/65.png",
+    "iplDebut": "2015",
+    "specialization": "Batter",
+    "matches": "79",
+    "PlayerId": "65",
+    "PlayerName": "Kane Williamson",
+    "teams": [
+      "Gujarat Titans",
+      "Sunrisers Hyderabad"
+    ],
+    "Batting": {
+      "Innings": 77,
+      "Runs": 2128,
+      "Balls": 1694,
+      "HighestScore": "89",
+      "Fifties": 18,
+      "Hundreds": 0,
+      "Sixes": 64,
+      "Fours": 186,
+      "StrikeRate": 125.62,
+      "BattingAvg": 35.47,
+      "NotOuts": 17,
+      "Catches": 40,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 2,
+      "Overs": "3.00",
+      "Runs": 31,
+      "Wickets": 0
+    }
+  },
+  "488": {
+    "dob": "08 May 1993",
+    "nationality": "Australian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/33.png",
+    "iplDebut": "2014",
+    "specialization": "Bowler",
+    "matches": "72",
+    "PlayerId": "33",
+    "PlayerName": "Pat Cummins",
+    "teams": [
+      "Sunrisers Hyderabad",
+      "Kolkata Knight Riders"
+    ],
+    "Batting": {
+      "Innings": 50,
+      "Runs": 612,
+      "Balls": 402,
+      "HighestScore": "66*",
+      "Fifties": 3,
+      "Hundreds": 0,
+      "Sixes": 41,
+      "Fours": 39,
+      "StrikeRate": 152.24,
+      "BattingAvg": 20.4,
+      "NotOuts": 20,
+      "Catches": 20,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 72,
+      "Overs": "269.50",
+      "Runs": 2373,
+      "Wickets": 79
+    }
+  },
+  "490": {
+    "dob": "30 January 1990",
+    "nationality": "Australian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/31.png",
+    "iplDebut": "2014",
+    "specialization": "Bowler",
+    "matches": "52",
+    "PlayerId": "31",
+    "PlayerName": "Mitchell Starc",
+    "teams": [
+      "Delhi Capitals",
+      "Kolkata Knight Riders",
+      "Royal Challengers Bengaluru"
+    ],
+    "Batting": {
+      "Innings": 23,
+      "Runs": 111,
+      "Balls": 119,
+      "HighestScore": "29",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 0,
+      "Fours": 11,
+      "StrikeRate": 93.28,
+      "BattingAvg": 10.09,
+      "NotOuts": 12,
+      "Catches": 29,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 49,
+      "Overs": "174.50",
+      "Runs": 1503,
+      "Wickets": 65
+    }
+  },
+  "506": {
+    "dob": "26 September 1989",
+    "nationality": "English",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/216.png",
+    "iplDebut": "2019",
+    "specialization": "Wicketkeeper Batter",
+    "matches": "52",
+    "PlayerId": "216",
+    "PlayerName": "Jonny Bairstow",
+    "teams": [
+      "Mumbai Indians",
+      "Punjab Kings"
+    ],
+    "Batting": {
+      "Innings": 52,
+      "Runs": 1674,
+      "Balls": 1146,
+      "HighestScore": "114",
+      "Fifties": 9,
+      "Hundreds": 2,
+      "Sixes": 74,
+      "Fours": 173,
+      "StrikeRate": 146.07,
+      "BattingAvg": 34.88,
+      "NotOuts": 4,
+      "Catches": 29,
+      "Stumpings": 4
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "509": {
+    "dob": "08 September 1990",
+    "nationality": "English",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/182.png",
+    "iplDebut": "2016",
+    "specialization": "Wicketkeeper Batter",
+    "matches": "121",
+    "PlayerId": "182",
+    "PlayerName": "Jos Buttler",
+    "teams": [
+      "Gujarat Titans",
+      "Rajasthan Royals"
+    ],
+    "Batting": {
+      "Innings": 119,
+      "Runs": 4120,
+      "Balls": 2758,
+      "HighestScore": "124",
+      "Fifties": 24,
+      "Hundreds": 7,
+      "Sixes": 185,
+      "Fours": 407,
+      "StrikeRate": 149.38,
+      "BattingAvg": 40,
+      "NotOuts": 16,
+      "Catches": 63,
+      "Stumpings": 3
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "730": {
+    "dob": "11 June 1986",
+    "nationality": "New Zealander",
+    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/730.png",
+    "iplDebut": "2015",
+    "specialization": "Bowler",
+    "matches": "56",
+    "PlayerId": "0",
+    "PlayerName": "Mitchell McClenaghan",
+    "teams": [
+      "Mumbai Indians"
+    ],
+    "Batting": {
+      "Innings": 24,
+      "Runs": 85,
+      "Balls": 70,
+      "HighestScore": "20*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 7,
+      "Fours": 5,
+      "StrikeRate": 121.43,
+      "BattingAvg": 6.54,
+      "NotOuts": 11,
+      "Catches": 1,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 56,
+      "Overs": "212.30",
+      "Runs": 1803,
+      "Wickets": 71
+    }
+  },
+  "834": {
+    "dob": "17 December 1992",
+    "nationality": "South African",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2013",
+    "specialization": "Wicketkeeper Batter",
+    "matches": "115",
+    "PlayerId": "170",
+    "PlayerName": "Quinton de Kock",
+    "teams": [
+      "Kolkata Knight Riders",
+      "Lucknow Super Giants"
+    ],
+    "Batting": {
+      "Innings": 115,
+      "Runs": 3309,
+      "Balls": 2469,
+      "HighestScore": "140*",
+      "Fifties": 24,
+      "Hundreds": 2,
+      "Sixes": 134,
+      "Fours": 325,
+      "StrikeRate": 134.02,
+      "BattingAvg": 30.64,
+      "NotOuts": 7,
+      "Catches": 73,
+      "Stumpings": 16
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "836": {
+    "dob": "30 April 1987",
+    "nationality": "South African",
+    "profilePhoto": "https://documents.iplt20.com/playerheadshot/ipl/284/836.png",
+    "iplDebut": "2013",
+    "specialization": "All Rounder",
+    "matches": "81",
+    "PlayerId": "112",
+    "PlayerName": "Chris Morris",
+    "teams": [
+      "Rajasthan Royals",
+      "Royal Challengers Bangalore",
+      "Delhi Capitals",
+      "Chennai Super Kings"
+    ],
+    "Batting": {
+      "Innings": 51,
+      "Runs": 618,
+      "Balls": 398,
+      "HighestScore": "82*",
+      "Fifties": 2,
+      "Hundreds": 0,
+      "Sixes": 35,
+      "Fours": 41,
+      "StrikeRate": 155.28,
+      "BattingAvg": 22.07,
+      "NotOuts": 23,
+      "Catches": 38,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 81,
+      "Overs": "286.70",
+      "Runs": 2295,
+      "Wickets": 95
+    }
+  },
+  "964": {
+    "dob": "16 August 1989",
+    "nationality": "Australian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/23.png",
+    "iplDebut": "2016",
+    "specialization": "All Rounder",
+    "matches": "109",
+    "PlayerId": "23",
+    "PlayerName": "Marcus Stoinis",
+    "teams": [
+      "Punjab Kings",
+      "Lucknow Super Giants"
+    ],
+    "Batting": {
+      "Innings": 99,
+      "Runs": 2026,
+      "Balls": 1400,
+      "HighestScore": "124*",
+      "Fifties": 9,
+      "Hundreds": 1,
+      "Sixes": 106,
+      "Fours": 158,
+      "StrikeRate": 144.71,
+      "BattingAvg": 28.14,
+      "NotOuts": 27,
+      "Catches": 25,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 71,
+      "Overs": "148.00",
+      "Runs": 1449,
+      "Wickets": 44
+    }
+  },
+  "969": {
+    "dob": "22 July 1989",
+    "nationality": "New Zealander",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/66.png",
+    "iplDebut": "2015",
+    "specialization": "Bowler",
+    "matches": "120",
+    "PlayerId": "66",
+    "PlayerName": "Trent Boult",
+    "teams": [
+      "Mumbai Indians",
+      "Rajasthan Royals"
+    ],
+    "Batting": {
+      "Innings": 29,
+      "Runs": 85,
+      "Balls": 81,
+      "HighestScore": "17*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 3,
+      "Fours": 5,
+      "StrikeRate": 104.94,
+      "BattingAvg": 9.44,
+      "NotOuts": 20,
+      "Catches": 35,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 119,
+      "Overs": "447.20",
+      "Runs": 3747,
+      "Wickets": 143
+    }
+  },
+  "1083": {
+    "dob": "26 January 1991",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/61.png",
+    "iplDebut": "2014",
+    "specialization": "All Rounder",
+    "matches": "78",
+    "PlayerId": "61",
+    "PlayerName": "Vijay Shankar",
+    "teams": [
+      "Chennai Super Kings",
+      "Gujarat Titans"
+    ],
+    "Batting": {
+      "Innings": 65,
+      "Runs": 1233,
+      "Balls": 950,
+      "HighestScore": "69*",
+      "Fifties": 7,
+      "Hundreds": 0,
+      "Sixes": 48,
+      "Fours": 88,
+      "StrikeRate": 129.79,
+      "BattingAvg": 26.23,
+      "NotOuts": 18,
+      "Catches": 32,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 22,
+      "Overs": "39.70",
+      "Runs": 344,
+      "Wickets": 9
+    }
+  },
+  "1085": {
+    "dob": "18 July 1993",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2023/185.png",
+    "iplDebut": "2013",
+    "specialization": "Batter",
+    "matches": "56",
+    "PlayerId": "185",
+    "PlayerName": "Manan Vohra",
+    "teams": [
+      "Lucknow Super Giants"
+    ],
+    "Batting": {
+      "Innings": 49,
+      "Runs": 1054,
+      "Balls": 807,
+      "HighestScore": "95",
+      "Fifties": 3,
+      "Hundreds": 0,
+      "Sixes": 41,
+      "Fours": 102,
+      "StrikeRate": 130.61,
+      "BattingAvg": 22.43,
+      "NotOuts": 2,
+      "Catches": 13,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "1086": {
+    "dob": "19 May 1990",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2023/64.png",
+    "iplDebut": "2013",
+    "specialization": "Bowler",
+    "matches": "55",
+    "PlayerId": "64",
+    "PlayerName": "Siddarth Kaul",
+    "teams": [
+      "Royal Challengers Bengaluru"
+    ],
+    "Batting": {
+      "Innings": 12,
+      "Runs": 20,
+      "Balls": 36,
+      "HighestScore": "7*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 0,
+      "Fours": 1,
+      "StrikeRate": 55.56,
+      "BattingAvg": 5,
+      "NotOuts": 8,
+      "Catches": 8,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 54,
+      "Overs": "197.50",
+      "Runs": 1696,
+      "Wickets": 58
+    }
+  },
+  "1107": {
+    "dob": "18 September 1998",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/100.png",
+    "iplDebut": "2013",
+    "specialization": "Bowler",
+    "matches": "120",
+    "PlayerId": "100",
+    "PlayerName": "Mohit Sharma",
+    "teams": [
+      "Delhi Capitals",
+      "Gujarat Titans",
+      "Chennai Super Kings",
+      "Punjab Kings"
+    ],
+    "Batting": {
+      "Innings": 33,
+      "Runs": 127,
+      "Balls": 131,
+      "HighestScore": "21*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 4,
+      "Fours": 8,
+      "StrikeRate": 96.95,
+      "BattingAvg": 6.68,
+      "NotOuts": 14,
+      "Catches": 29,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 119,
+      "Overs": "400.50",
+      "Runs": 3513,
+      "Wickets": 134
+    }
+  },
+  "1112": {
+    "dob": "18 May 1993",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2024/220.png",
+    "iplDebut": "2013",
+    "specialization": "Bowler",
+    "matches": "137",
+    "PlayerId": "220",
+    "PlayerName": "Sandeep Sharma",
+    "teams": [
+      "Rajasthan Royals",
+      "Punjab Kings"
+    ],
+    "Batting": {
+      "Innings": 28,
+      "Runs": 60,
+      "Balls": 74,
+      "HighestScore": "9",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 0,
+      "Fours": 4,
+      "StrikeRate": 81.08,
+      "BattingAvg": 10,
+      "NotOuts": 22,
+      "Catches": 22,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 136,
+      "Overs": "506.80",
+      "Runs": 4070,
+      "Wickets": 146
+    }
+  },
+  "1113": {
+    "dob": "20 January 1994",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/110.png",
+    "iplDebut": "2014",
+    "specialization": "All Rounder",
+    "matches": "162",
+    "PlayerId": "110",
+    "PlayerName": "Axar Patel",
+    "teams": [
+      "Delhi Capitals"
+    ],
+    "Batting": {
+      "Innings": 124,
+      "Runs": 1916,
+      "Balls": 1430,
+      "HighestScore": "66",
+      "Fifties": 3,
+      "Hundreds": 0,
+      "Sixes": 94,
+      "Fours": 130,
+      "StrikeRate": 133.99,
+      "BattingAvg": 22.02,
+      "NotOuts": 37,
+      "Catches": 76,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 159,
+      "Overs": "550.50",
+      "Runs": 4046,
+      "Wickets": 128
+    }
+  },
+  "1118": {
+    "dob": "23 October 1987",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/98.png",
+    "iplDebut": "2009",
+    "specialization": "Bowler",
+    "matches": "90",
+    "PlayerId": "98",
+    "PlayerName": "Karn Sharma",
+    "teams": [
+      "Mumbai Indians",
+      "Royal Challengers Bengaluru"
+    ],
+    "Batting": {
+      "Innings": 41,
+      "Runs": 351,
+      "Balls": 292,
+      "HighestScore": "39*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 17,
+      "Fours": 20,
+      "StrikeRate": 120.21,
+      "BattingAvg": 14.04,
+      "NotOuts": 16,
+      "Catches": 23,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 87,
+      "Overs": "264.20",
+      "Runs": 2215,
+      "Wickets": 83
+    }
+  },
+  "1124": {
+    "dob": "06 December 1993",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/9.png",
+    "iplDebut": "2013",
+    "specialization": "Bowler",
+    "matches": "145",
+    "PlayerId": "9",
+    "PlayerName": "Jasprit Bumrah",
+    "teams": [
+      "Mumbai Indians"
+    ],
+    "Batting": {
+      "Innings": 32,
+      "Runs": 69,
+      "Balls": 79,
+      "HighestScore": "16*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 1,
+      "Fours": 5,
+      "StrikeRate": 87.34,
+      "BattingAvg": 9.86,
+      "NotOuts": 25,
+      "Catches": 18,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 145,
+      "Overs": "556.20",
+      "Runs": 4030,
+      "Wickets": 183
+    }
+  },
+  "1125": {
+    "dob": "18 April 1992",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/19.png",
+    "iplDebut": "2013",
+    "specialization": "Wicketkeeper Batter",
+    "matches": "145",
+    "PlayerId": "19",
+    "PlayerName": "KL Rahul",
+    "teams": [
+      "Delhi Capitals",
+      "Lucknow Super Giants"
+    ],
+    "Batting": {
+      "Innings": 136,
+      "Runs": 5222,
+      "Balls": 3839,
+      "HighestScore": "132*",
+      "Fifties": 40,
+      "Hundreds": 5,
+      "Sixes": 208,
+      "Fours": 452,
+      "StrikeRate": 136.03,
+      "BattingAvg": 46.21,
+      "NotOuts": 23,
+      "Catches": 84,
+      "Stumpings": 7
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "1556": {
+    "dob": "19 April 1995",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/215.png",
+    "iplDebut": "2015",
+    "specialization": "All Rounder",
+    "matches": "125",
+    "PlayerId": "215",
+    "PlayerName": "Deepak Hooda",
+    "teams": [
+      "Chennai Super Kings",
+      "Lucknow Super Giants"
+    ],
+    "Batting": {
+      "Innings": 101,
+      "Runs": 1496,
+      "Balls": 1172,
+      "HighestScore": "64",
+      "Fifties": 8,
+      "Hundreds": 0,
+      "Sixes": 62,
+      "Fours": 98,
+      "StrikeRate": 127.65,
+      "BattingAvg": 17.6,
+      "NotOuts": 16,
+      "Catches": 57,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 34,
+      "Overs": "63.20",
+      "Runs": 546,
+      "Wickets": 10
+    }
+  },
+  "1561": {
+    "dob": "13 December 1996",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/109.png",
+    "iplDebut": "2017",
+    "specialization": "Bowler",
+    "matches": "76",
+    "PlayerId": "109",
+    "PlayerName": "Avesh Khan",
+    "teams": [
+      "Lucknow Super Giants",
+      "Rajasthan Royals"
+    ],
+    "Batting": {
+      "Innings": 14,
+      "Runs": 62,
+      "Balls": 37,
+      "HighestScore": "19*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 4,
+      "Fours": 6,
+      "StrikeRate": 167.57,
+      "BattingAvg": 31,
+      "NotOuts": 12,
+      "Catches": 13,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 75,
+      "Overs": "269.80",
+      "Runs": 2461,
+      "Wickets": 87
+    }
+  },
+  "1563": {
+    "dob": "06 December 1994",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/12.png",
+    "iplDebut": "2015",
+    "specialization": "Batter",
+    "matches": "133",
+    "PlayerId": "12",
+    "PlayerName": "Shreyas Iyer",
+    "teams": [
+      "Punjab Kings",
+      "Kolkata Knight Riders"
+    ],
+    "Batting": {
+      "Innings": 132,
+      "Runs": 3731,
+      "Balls": 2798,
+      "HighestScore": "97*",
+      "Fifties": 27,
+      "Hundreds": 0,
+      "Sixes": 152,
+      "Fours": 314,
+      "StrikeRate": 133.35,
+      "BattingAvg": 34.23,
+      "NotOuts": 23,
+      "Catches": 56,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 1,
+      "Overs": "1.00",
+      "Runs": 7,
+      "Wickets": 0
+    }
+  },
+  "1594": {
+    "dob": "06 September 1995",
+    "nationality": "Bangladeshi",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2016",
+    "specialization": "Bowler",
+    "matches": "60",
+    "PlayerId": "258",
+    "PlayerName": "Mustafizur Rahman",
+    "teams": [
+      "Delhi Capitals",
+      "Chennai Super Kings"
+    ],
+    "Batting": {
+      "Innings": 10,
+      "Runs": 13,
+      "Balls": 24,
+      "HighestScore": "8*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 1,
+      "Fours": 0,
+      "StrikeRate": 54.17,
+      "BattingAvg": 6.5,
+      "NotOuts": 8,
+      "Catches": 7,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 60,
+      "Overs": "227.30",
+      "Runs": 1849,
+      "Wickets": 65
+    }
+  },
+  "1664": {
+    "dob": "25 May 1995",
+    "nationality": "South African",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/116.png",
+    "iplDebut": "2017",
+    "specialization": "Bowler",
+    "matches": "84",
+    "PlayerId": "116",
+    "PlayerName": "Kagiso Rabada",
+    "teams": [
+      "Gujarat Titans",
+      "Punjab Kings"
+    ],
+    "Batting": {
+      "Innings": 33,
+      "Runs": 215,
+      "Balls": 201,
+      "HighestScore": "44",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 9,
+      "Fours": 16,
+      "StrikeRate": 106.97,
+      "BattingAvg": 11.32,
+      "NotOuts": 14,
+      "Catches": 30,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 84,
+      "Overs": "317.00",
+      "Runs": 2732,
+      "Wickets": 119
+    }
+  },
+  "1667": {
+    "dob": "04 October 1994",
+    "nationality": "South African",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/287.png",
+    "iplDebut": "2021",
+    "specialization": "Batter",
+    "matches": "57",
+    "PlayerId": "287",
+    "PlayerName": "Aiden Markram",
+    "teams": [
+      "Lucknow Super Giants",
+      "Sunrisers Hyderabad"
+    ],
+    "Batting": {
+      "Innings": 55,
+      "Runs": 1440,
+      "Balls": 1066,
+      "HighestScore": "68*",
+      "Fifties": 10,
+      "Hundreds": 0,
+      "Sixes": 57,
+      "Fours": 111,
+      "StrikeRate": 135.08,
+      "BattingAvg": 31.3,
+      "NotOuts": 9,
+      "Catches": 32,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 19,
+      "Overs": "31.20",
+      "Runs": 274,
+      "Wickets": 6
+    }
+  },
+  "1703": {
+    "dob": "02 October 1995",
+    "nationality": "West Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/136.png",
+    "iplDebut": "2019",
+    "specialization": "Wicketkeeper Batter",
+    "matches": "90",
+    "PlayerId": "136",
+    "PlayerName": "Nicholas Pooran",
+    "teams": [
+      "Lucknow Super Giants",
+      "Sunrisers Hyderabad"
+    ],
+    "Batting": {
+      "Innings": 87,
+      "Runs": 2293,
+      "Balls": 1357,
+      "HighestScore": "87*",
+      "Fifties": 14,
+      "Hundreds": 0,
+      "Sixes": 167,
+      "Fours": 158,
+      "StrikeRate": 168.98,
+      "BattingAvg": 34.22,
+      "NotOuts": 20,
+      "Catches": 40,
+      "Stumpings": 4
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "1705": {
+    "dob": "26 December 1996",
+    "nationality": "West Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/210.png",
+    "iplDebut": "2019",
+    "specialization": "Batter",
+    "matches": "86",
+    "PlayerId": "210",
+    "PlayerName": "Shimron Hetmyer",
+    "teams": [
+      "Rajasthan Royals"
+    ],
+    "Batting": {
+      "Innings": 79,
+      "Runs": 1483,
+      "Balls": 976,
+      "HighestScore": "75",
+      "Fifties": 5,
+      "Hundreds": 0,
+      "Sixes": 93,
+      "Fours": 93,
+      "StrikeRate": 151.95,
+      "BattingAvg": 29.08,
+      "NotOuts": 28,
+      "Catches": 45,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "1735": {
+    "dob": "18 June 1987",
+    "nationality": "English",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/206.png",
+    "iplDebut": "2018",
+    "specialization": "All Rounder",
+    "matches": "73",
+    "PlayerId": "206",
+    "PlayerName": "Moeen Ali",
+    "teams": [
+      "Kolkata Knight Riders",
+      "Chennai Super Kings"
+    ],
+    "Batting": {
+      "Innings": 59,
+      "Runs": 1167,
+      "Balls": 835,
+      "HighestScore": "93",
+      "Fifties": 6,
+      "Hundreds": 0,
+      "Sixes": 67,
+      "Fours": 95,
+      "StrikeRate": 139.76,
+      "BattingAvg": 22.02,
+      "NotOuts": 6,
+      "Catches": 24,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 57,
+      "Overs": "142.30",
+      "Runs": 1029,
+      "Wickets": 41
+    }
+  },
+  "1745": {
+    "dob": "16 October 1991",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2015",
+    "specialization": "All Rounder",
+    "matches": "105",
+    "PlayerId": "105",
+    "PlayerName": "Shardul Thakur",
+    "teams": [
+      "Lucknow Super Giants",
+      "Chennai Super Kings",
+      "Kolkata Knight Riders",
+      "Delhi Capitals"
+    ],
+    "Batting": {
+      "Innings": 42,
+      "Runs": 325,
+      "Balls": 233,
+      "HighestScore": "68",
+      "Fifties": 1,
+      "Hundreds": 0,
+      "Sixes": 13,
+      "Fours": 30,
+      "StrikeRate": 139.48,
+      "BattingAvg": 11.61,
+      "NotOuts": 14,
+      "Catches": 36,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 102,
+      "Overs": "345.00",
+      "Runs": 3244,
+      "Wickets": 107
+    }
+  },
+  "1749": {
+    "dob": "20 May 1993",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/120.png",
+    "iplDebut": "2014",
+    "specialization": "Bowler",
+    "matches": "108",
+    "PlayerId": "120",
+    "PlayerName": "Rahul Tewatia",
+    "teams": [
+      "Gujarat Titans"
+    ],
+    "Batting": {
+      "Innings": 77,
+      "Runs": 1112,
+      "Balls": 811,
+      "HighestScore": "53",
+      "Fifties": 1,
+      "Hundreds": 0,
+      "Sixes": 54,
+      "Fours": 90,
+      "StrikeRate": 137.11,
+      "BattingAvg": 23.17,
+      "NotOuts": 29,
+      "Catches": 42,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 52,
+      "Overs": "140.50",
+      "Runs": 1111,
+      "Wickets": 32
+    }
+  },
+  "2738": {
+    "dob": "27 December 1993",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2016",
+    "specialization": "All Rounder",
+    "matches": "118",
+    "PlayerId": "148",
+    "PlayerName": "Nitish Rana",
+    "teams": [
+      "Rajasthan Royals",
+      "Kolkata Knight Riders"
+    ],
+    "Batting": {
+      "Innings": 112,
+      "Runs": 2853,
+      "Balls": 2086,
+      "HighestScore": "87",
+      "Fifties": 20,
+      "Hundreds": 0,
+      "Sixes": 141,
+      "Fours": 261,
+      "StrikeRate": 136.77,
+      "BattingAvg": 27.97,
+      "NotOuts": 10,
+      "Catches": 26,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 26,
+      "Overs": "32.00",
+      "Runs": 270,
+      "Wickets": 10
+    }
+  },
+  "2740": {
+    "dob": "11 October 1993",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/54.png",
+    "iplDebut": "2015",
+    "specialization": "All Rounder",
+    "matches": "152",
+    "PlayerId": "54",
+    "PlayerName": "Hardik Pandya",
+    "teams": [
+      "Mumbai Indians",
+      "Gujarat Titans"
+    ],
+    "Batting": {
+      "Innings": 140,
+      "Runs": 2749,
+      "Balls": 1871,
+      "HighestScore": "91",
+      "Fifties": 10,
+      "Hundreds": 0,
+      "Sixes": 148,
+      "Fours": 207,
+      "StrikeRate": 146.93,
+      "BattingAvg": 28.34,
+      "NotOuts": 43,
+      "Catches": 72,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 107,
+      "Overs": "271.30",
+      "Runs": 2492,
+      "Wickets": 78
+    }
+  },
+  "2885": {
+    "dob": "20 September 1998",
+    "nationality": "Afghan",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/218.png",
+    "iplDebut": "2017",
+    "specialization": "Bowler",
+    "matches": "136",
+    "PlayerId": "218",
+    "PlayerName": "Rashid Khan",
+    "teams": [
+      "Gujarat Titans"
+    ],
+    "Batting": {
+      "Innings": 68,
+      "Runs": 585,
+      "Balls": 365,
+      "HighestScore": "79*",
+      "Fifties": 1,
+      "Hundreds": 0,
+      "Sixes": 41,
+      "Fours": 41,
+      "StrikeRate": 160.27,
+      "BattingAvg": 13.93,
+      "NotOuts": 26,
+      "Catches": 48,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 136,
+      "Overs": "531.50",
+      "Runs": 3766,
+      "Wickets": 158
+    }
+  },
+  "2939": {
+    "dob": "03 June 1998",
+    "nationality": "English",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2019",
+    "specialization": "All Rounder",
+    "matches": "64",
+    "PlayerId": "138",
+    "PlayerName": "Sam Curran",
+    "teams": [
+      "Chennai Super Kings",
+      "Punjab Kings"
+    ],
+    "Batting": {
+      "Innings": 53,
+      "Runs": 997,
+      "Balls": 731,
+      "HighestScore": "88",
+      "Fifties": 6,
+      "Hundreds": 0,
+      "Sixes": 41,
+      "Fours": 85,
+      "StrikeRate": 136.39,
+      "BattingAvg": 24.93,
+      "NotOuts": 13,
+      "Catches": 25,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 63,
+      "Overs": "208.80",
+      "Runs": 2033,
+      "Wickets": 59
+    }
+  },
+  "2964": {
+    "dob": "05 December 1997",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/8.png",
+    "iplDebut": "2018",
+    "specialization": "Bowler",
+    "matches": "71",
+    "PlayerId": "8",
+    "PlayerName": "Khaleel Ahmed",
+    "teams": [
+      "Chennai Super Kings",
+      "Delhi Capitals"
+    ],
+    "Batting": {
+      "Innings": 6,
+      "Runs": 2,
+      "Balls": 9,
+      "HighestScore": "1*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 0,
+      "Fours": 0,
+      "StrikeRate": 22.22,
+      "BattingAvg": 0.5,
+      "NotOuts": 2,
+      "Catches": 5,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 71,
+      "Overs": "259.30",
+      "Runs": 2328,
+      "Wickets": 89
+    }
+  },
+  "2972": {
+    "dob": "04 October 1997",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/18.png",
+    "iplDebut": "2016",
+    "specialization": "Wicketkeeper Batter",
+    "matches": "125",
+    "PlayerId": "18",
+    "PlayerName": "Rishabh Pant",
+    "teams": [
+      "Lucknow Super Giants",
+      "Delhi Capitals"
+    ],
+    "Batting": {
+      "Innings": 123,
+      "Runs": 3553,
+      "Balls": 2407,
+      "HighestScore": "128*",
+      "Fifties": 19,
+      "Hundreds": 2,
+      "Sixes": 170,
+      "Fours": 319,
+      "StrikeRate": 147.61,
+      "BattingAvg": 34.16,
+      "NotOuts": 19,
+      "Catches": 80,
+      "Stumpings": 24
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "2973": {
+    "dob": "05 October 1999",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/20.png",
+    "iplDebut": "2017",
+    "specialization": "All Rounder",
+    "matches": "66",
+    "PlayerId": "20",
+    "PlayerName": "Washington Sundar",
+    "teams": [
+      "Gujarat Titans",
+      "Sunrisers Hyderabad"
+    ],
+    "Batting": {
+      "Innings": 45,
+      "Runs": 511,
+      "Balls": 405,
+      "HighestScore": "49",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 16,
+      "Fours": 42,
+      "StrikeRate": 126.17,
+      "BattingAvg": 15.97,
+      "NotOuts": 13,
+      "Catches": 15,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 63,
+      "Overs": "186.50",
+      "Runs": 1436,
+      "Wickets": 39
+    }
+  },
+  "2975": {
+    "dob": "18 July 1998",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/164.png",
+    "iplDebut": "2016",
+    "specialization": "Wicketkeeper Batter",
+    "matches": "119",
+    "PlayerId": "164",
+    "PlayerName": "Ishan Kishan",
+    "teams": [
+      "Sunrisers Hyderabad",
+      "Mumbai Indians"
+    ],
+    "Batting": {
+      "Innings": 112,
+      "Runs": 2998,
+      "Balls": 2178,
+      "HighestScore": "106*",
+      "Fifties": 17,
+      "Hundreds": 1,
+      "Sixes": 134,
+      "Fours": 288,
+      "StrikeRate": 137.65,
+      "BattingAvg": 29.11,
+      "NotOuts": 9,
+      "Catches": 59,
+      "Stumpings": 5
+    },
+    "Bowling": {
+      "Innings": 1,
+      "Overs": "0.20",
+      "Runs": 4,
+      "Wickets": 0
+    }
+  },
+  "3183": {
+    "dob": "24 March 1991",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/17.png",
+    "iplDebut": "2016",
+    "specialization": "All Rounder",
+    "matches": "142",
+    "PlayerId": "17",
+    "PlayerName": "Krunal Pandya",
+    "teams": [
+      "Royal Challengers Bengaluru",
+      "Lucknow Super Giants"
+    ],
+    "Batting": {
+      "Innings": 118,
+      "Runs": 1756,
+      "Balls": 1326,
+      "HighestScore": "86",
+      "Fifties": 2,
+      "Hundreds": 0,
+      "Sixes": 65,
+      "Fours": 153,
+      "StrikeRate": 132.43,
+      "BattingAvg": 22.23,
+      "NotOuts": 39,
+      "Catches": 52,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 132,
+      "Overs": "399.70",
+      "Runs": 2985,
+      "Wickets": 93
+    }
+  },
+  "3185": {
+    "dob": "22 October 1993",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1000.png",
+    "iplDebut": "2022",
+    "specialization": "Wicketkeeper Batter",
+    "matches": "55",
+    "PlayerId": "1000",
+    "PlayerName": "Jitesh Sharma",
+    "teams": [
+      "Royal Challengers Bengaluru",
+      "Punjab Kings"
+    ],
+    "Batting": {
+      "Innings": 47,
+      "Runs": 991,
+      "Balls": 631,
+      "HighestScore": "85*",
+      "Fifties": 1,
+      "Hundreds": 0,
+      "Sixes": 62,
+      "Fours": 77,
+      "StrikeRate": 157.05,
+      "BattingAvg": 25.41,
+      "NotOuts": 8,
+      "Catches": 44,
+      "Stumpings": 5
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.0",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "3502": {
+    "dob": "01 April 1995",
+    "nationality": "English",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/181.png",
+    "iplDebut": "2018",
+    "specialization": "Bowler",
+    "matches": "52",
+    "PlayerId": "181",
+    "PlayerName": "Jofra Archer",
+    "teams": [
+      "Rajasthan Royals",
+      "Mumbai Indians"
+    ],
+    "Batting": {
+      "Innings": 32,
+      "Runs": 262,
+      "Balls": 178,
+      "HighestScore": "30",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 18,
+      "Fours": 14,
+      "StrikeRate": 147.19,
+      "BattingAvg": 13.79,
+      "NotOuts": 13,
+      "Catches": 11,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 52,
+      "Overs": "203.00",
+      "Runs": 1602,
+      "Wickets": 59
+    }
+  },
+  "3760": {
+    "dob": "04 September 2000",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/212.png",
+    "iplDebut": "2018",
+    "specialization": "All Rounder",
+    "matches": "77",
+    "PlayerId": "212",
+    "PlayerName": "Abhishek Sharma",
+    "teams": [
+      "Sunrisers Hyderabad"
+    ],
+    "Batting": {
+      "Innings": 74,
+      "Runs": 1816,
+      "Balls": 1114,
+      "HighestScore": "141",
+      "Fifties": 9,
+      "Hundreds": 1,
+      "Sixes": 101,
+      "Fours": 174,
+      "StrikeRate": 163.02,
+      "BattingAvg": 27.1,
+      "NotOuts": 7,
+      "Catches": 26,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 32,
+      "Overs": "56.00",
+      "Runs": 501,
+      "Wickets": 11
+    }
+  },
+  "3761": {
+    "dob": "08 September 1999",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/62.png",
+    "iplDebut": "2018",
+    "specialization": "Batter",
+    "matches": "118",
+    "PlayerId": "62",
+    "PlayerName": "Shubman Gill",
+    "teams": [
+      "Gujarat Titans"
+    ],
+    "Batting": {
+      "Innings": 115,
+      "Runs": 3866,
+      "Balls": 2787,
+      "HighestScore": "129",
+      "Fifties": 26,
+      "Hundreds": 4,
+      "Sixes": 119,
+      "Fours": 372,
+      "StrikeRate": 138.72,
+      "BattingAvg": 39.45,
+      "NotOuts": 17,
+      "Catches": 45,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "3763": {
+    "dob": "04 August 1999",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2017",
+    "specialization": "Bowler",
+    "matches": "79",
+    "PlayerId": "171",
+    "PlayerName": "Rahul Chahar",
+    "teams": [
+      "Sunrisers Hyderabad",
+      "Punjab Kings"
+    ],
+    "Batting": {
+      "Innings": 24,
+      "Runs": 129,
+      "Balls": 124,
+      "HighestScore": "25*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 5,
+      "Fours": 13,
+      "StrikeRate": 104.03,
+      "BattingAvg": 8.06,
+      "NotOuts": 8,
+      "Catches": 23,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 78,
+      "Overs": "278.30",
+      "Runs": 2150,
+      "Wickets": 75
+    }
+  },
+  "3764": {
+    "dob": "09 November 1999",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2024/51.png",
+    "iplDebut": "2018",
+    "specialization": "Batter",
+    "matches": "79",
+    "PlayerId": "51",
+    "PlayerName": "Prithvi Shaw",
+    "teams": [
+      "Delhi Capitals"
+    ],
+    "Batting": {
+      "Innings": 79,
+      "Runs": 1892,
+      "Balls": 1283,
+      "HighestScore": "99",
+      "Fifties": 14,
+      "Hundreds": 0,
+      "Sixes": 61,
+      "Fours": 238,
+      "StrikeRate": 147.47,
+      "BattingAvg": 23.95,
+      "NotOuts": 0,
+      "Catches": 18,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "3830": {
+    "dob": "12 October 1997",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/152.png",
+    "iplDebut": "2018",
+    "specialization": "Batter",
+    "matches": "59",
+    "PlayerId": "152",
+    "PlayerName": "Rinku Singh",
+    "teams": [
+      "Kolkata Knight Riders"
+    ],
+    "Batting": {
+      "Innings": 51,
+      "Runs": 1099,
+      "Balls": 757,
+      "HighestScore": "67*",
+      "Fifties": 4,
+      "Hundreds": 0,
+      "Sixes": 56,
+      "Fours": 87,
+      "StrikeRate": 145.18,
+      "BattingAvg": 30.53,
+      "NotOuts": 15,
+      "Catches": 39,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "3831": {
+    "dob": "27 May 1991",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/224.png",
+    "iplDebut": "2017",
+    "specialization": "Bowler",
+    "matches": "63",
+    "PlayerId": "224",
+    "PlayerName": "T Natarajan",
+    "teams": [
+      "Delhi Capitals",
+      "Sunrisers Hyderabad"
+    ],
+    "Batting": {
+      "Innings": 4,
+      "Runs": 3,
+      "Balls": 5,
+      "HighestScore": "3*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 0,
+      "Fours": 0,
+      "StrikeRate": 60,
+      "BattingAvg": 3,
+      "NotOuts": 3,
+      "Catches": 9,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 62,
+      "Overs": "225.80",
+      "Runs": 2018,
+      "Wickets": 67
+    }
+  },
+  "3838": {
+    "dob": "02 March 1991",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2017",
+    "specialization": "Batter",
+    "matches": "100",
+    "PlayerId": "188",
+    "PlayerName": "Rahul Tripathi",
+    "teams": [
+      "Chennai Super Kings",
+      "Sunrisers Hyderabad"
+    ],
+    "Batting": {
+      "Innings": 98,
+      "Runs": 2291,
+      "Balls": 1662,
+      "HighestScore": "93",
+      "Fifties": 12,
+      "Hundreds": 0,
+      "Sixes": 85,
+      "Fours": 229,
+      "StrikeRate": 137.85,
+      "BattingAvg": 26.33,
+      "NotOuts": 11,
+      "Catches": 34,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 1,
+      "Overs": "1.00",
+      "Runs": 12,
+      "Wickets": 0
+    }
+  },
+  "3840": {
+    "dob": "13 March 1994",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/63.png",
+    "iplDebut": "2017",
+    "specialization": "Bowler",
+    "matches": "108",
+    "PlayerId": "63",
+    "PlayerName": "Mohammed Siraj",
+    "teams": [
+      "Gujarat Titans",
+      "Royal Challengers Bengaluru"
+    ],
+    "Batting": {
+      "Innings": 26,
+      "Runs": 112,
+      "Balls": 123,
+      "HighestScore": "14",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 4,
+      "Fours": 10,
+      "StrikeRate": 91.06,
+      "BattingAvg": 11.2,
+      "NotOuts": 16,
+      "Catches": 34,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 108,
+      "Overs": "383.30",
+      "Runs": 3350,
+      "Wickets": 109
+    }
+  },
+  "4445": {
+    "dob": "10 November 2001",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/189.png",
+    "iplDebut": "2019",
+    "specialization": "Batter",
+    "matches": "84",
+    "PlayerId": "189",
+    "PlayerName": "Riyan Parag",
+    "teams": [
+      "Rajasthan Royals"
+    ],
+    "Batting": {
+      "Innings": 72,
+      "Runs": 1566,
+      "Balls": 1104,
+      "HighestScore": "95",
+      "Fifties": 7,
+      "Hundreds": 0,
+      "Sixes": 87,
+      "Fours": 111,
+      "StrikeRate": 141.85,
+      "BattingAvg": 26.1,
+      "NotOuts": 12,
+      "Catches": 45,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 30,
+      "Overs": "49.20",
+      "Runs": 477,
+      "Wickets": 7
+    }
+  },
+  "4698": {
+    "dob": "05 February 1999",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/125.png",
+    "iplDebut": "2019",
+    "specialization": "Bowler",
+    "matches": "82",
+    "PlayerId": "125",
+    "PlayerName": "Arshdeep Singh",
+    "teams": [
+      "Punjab Kings"
+    ],
+    "Batting": {
+      "Innings": 14,
+      "Runs": 31,
+      "Balls": 46,
+      "HighestScore": "10*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 0,
+      "Fours": 4,
+      "StrikeRate": 67.39,
+      "BattingAvg": 5.17,
+      "NotOuts": 8,
+      "Catches": 16,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 81,
+      "Overs": "285.70",
+      "Runs": 2570,
+      "Wickets": 97
+    }
+  },
+  "5105": {
+    "dob": "19 February 1996",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/150.png",
+    "iplDebut": "2018",
+    "specialization": "Bowler",
+    "matches": "66",
+    "PlayerId": "150",
+    "PlayerName": "Prasidh Krishna",
+    "teams": [
+      "Gujarat Titans",
+      "Rajasthan Royals"
+    ],
+    "Batting": {
+      "Innings": 10,
+      "Runs": 9,
+      "Balls": 24,
+      "HighestScore": "4*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 0,
+      "Fours": 0,
+      "StrikeRate": 37.5,
+      "BattingAvg": 3,
+      "NotOuts": 7,
+      "Catches": 14,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 66,
+      "Overs": "249.80",
+      "Runs": 2191,
+      "Wickets": 74
+    }
+  },
+  "5430": {
+    "dob": "07 July 2000",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/200.png",
+    "iplDebut": "2020",
+    "specialization": "Batter",
+    "matches": "74",
+    "PlayerId": "200",
+    "PlayerName": "Devdutt Padikkal",
+    "teams": [
+      "Royal Challengers Bengaluru",
+      "Lucknow Super Giants",
+      "Rajasthan Royals"
+    ],
+    "Batting": {
+      "Innings": 74,
+      "Runs": 1806,
+      "Balls": 1430,
+      "HighestScore": "101*",
+      "Fifties": 11,
+      "Hundreds": 1,
+      "Sixes": 56,
+      "Fours": 190,
+      "StrikeRate": 126.29,
+      "BattingAvg": 25.44,
+      "NotOuts": 3,
+      "Catches": 29,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "5431": {
+    "dob": "26 June 1993",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/211.png",
+    "iplDebut": "2019",
+    "specialization": "All Rounder",
+    "matches": "79",
+    "PlayerId": "211",
+    "PlayerName": "Shivam Dube",
+    "teams": [
+      "Chennai Super Kings"
+    ],
+    "Batting": {
+      "Innings": 75,
+      "Runs": 1859,
+      "Balls": 1294,
+      "HighestScore": "95*",
+      "Fifties": 10,
+      "Hundreds": 0,
+      "Sixes": 122,
+      "Fours": 108,
+      "StrikeRate": 143.66,
+      "BattingAvg": 30.48,
+      "NotOuts": 14,
+      "Catches": 23,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 15,
+      "Overs": "20.70",
+      "Runs": 213,
+      "Wickets": 5
+    }
+  },
+  "5432": {
+    "dob": "29 August 1991",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/140.png",
+    "iplDebut": "2019",
+    "specialization": "Bowler",
+    "matches": "84",
+    "PlayerId": "140",
+    "PlayerName": "Varun Chakaravarthy",
+    "teams": [
+      "Kolkata Knight Riders"
+    ],
+    "Batting": {
+      "Innings": 13,
+      "Runs": 26,
+      "Balls": 47,
+      "HighestScore": "10*",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 0,
+      "Fours": 2,
+      "StrikeRate": 55.32,
+      "BattingAvg": 6.5,
+      "NotOuts": 9,
+      "Catches": 16,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 83,
+      "Overs": "314.70",
+      "Runs": 2385,
+      "Wickets": 100
+    }
+  },
+  "5436": {
+    "dob": "10 August 2000",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/137.png",
+    "iplDebut": "2019",
+    "specialization": "Wicketkeeper Batter",
+    "matches": "51",
+    "PlayerId": "137",
+    "PlayerName": "Prabhsimran Singh",
+    "teams": [
+      "Punjab Kings"
+    ],
+    "Batting": {
+      "Innings": 51,
+      "Runs": 1305,
+      "Balls": 859,
+      "HighestScore": "103",
+      "Fifties": 7,
+      "Hundreds": 1,
+      "Sixes": 71,
+      "Fours": 134,
+      "StrikeRate": 151.92,
+      "BattingAvg": 25.59,
+      "NotOuts": 0,
+      "Catches": 6,
+      "Stumpings": 1
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "5443": {
+    "dob": "31 January 1997",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/102.png",
+    "iplDebut": "2020",
+    "specialization": "Batter",
+    "matches": "71",
+    "PlayerId": "102",
+    "PlayerName": "Ruturaj Gaikwad",
+    "teams": [
+      "Chennai Super Kings"
+    ],
+    "Batting": {
+      "Innings": 70,
+      "Runs": 2502,
+      "Balls": 1820,
+      "HighestScore": "108*",
+      "Fifties": 20,
+      "Hundreds": 2,
+      "Sixes": 95,
+      "Fours": 231,
+      "StrikeRate": 137.47,
+      "BattingAvg": 40.35,
+      "NotOuts": 8,
+      "Catches": 39,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 0,
+      "Overs": "0.00",
+      "Runs": 0,
+      "Wickets": 0
+    }
+  },
+  "7779": {
+    "dob": "27 May 1995",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/590.png",
+    "iplDebut": "2021",
+    "specialization": "All Rounder",
+    "matches": "55",
+    "PlayerId": "590",
+    "PlayerName": "Shahrukh Khan",
+    "teams": [
+      "Gujarat Titans",
+      "Punjab Kings"
+    ],
+    "Batting": {
+      "Innings": 49,
+      "Runs": 732,
+      "Balls": 491,
+      "HighestScore": "58",
+      "Fifties": 2,
+      "Hundreds": 0,
+      "Sixes": 50,
+      "Fours": 46,
+      "StrikeRate": 149.08,
+      "BattingAvg": 21.53,
+      "NotOuts": 15,
+      "Catches": 25,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 3,
+      "Overs": "3.00",
+      "Runs": 28,
+      "Wickets": 1
+    }
+  },
+  "8540": {
+    "dob": "25 December 1994",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2021",
+    "specialization": "All Rounder",
+    "matches": "62",
+    "PlayerId": "584",
+    "PlayerName": "Venkatesh Iyer",
+    "teams": [
+      "Kolkata Knight Riders"
+    ],
+    "Batting": {
+      "Innings": 56,
+      "Runs": 1468,
+      "Balls": 1069,
+      "HighestScore": "104",
+      "Fifties": 12,
+      "Hundreds": 1,
+      "Sixes": 65,
+      "Fours": 136,
+      "StrikeRate": 137.32,
+      "BattingAvg": 29.96,
+      "NotOuts": 7,
+      "Catches": 22,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 9,
+      "Overs": "13.50",
+      "Runs": 143,
+      "Wickets": 3
+    }
+  },
+  "13538": {
+    "dob": "28 December 2001",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/533.png",
+    "iplDebut": "2020",
+    "specialization": "Batter",
+    "matches": "67",
+    "PlayerId": "533",
+    "PlayerName": "Yashasvi Jaiswal",
+    "teams": [
+      "Rajasthan Royals"
+    ],
+    "Batting": {
+      "Innings": 66,
+      "Runs": 2166,
+      "Balls": 1417,
+      "HighestScore": "124",
+      "Fifties": 15,
+      "Hundreds": 2,
+      "Sixes": 92,
+      "Fours": 258,
+      "StrikeRate": 152.86,
+      "BattingAvg": 34.38,
+      "NotOuts": 3,
+      "Catches": 28,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 1,
+      "Overs": "0.20",
+      "Runs": 6,
+      "Wickets": 0
+    }
+  },
+  "13803": {
+    "dob": "11 December 1994",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/523.png",
+    "iplDebut": "2020",
+    "specialization": "All Rounder",
+    "matches": "58",
+    "PlayerId": "523",
+    "PlayerName": "Shahbaz Ahmed",
+    "teams": [
+      "Lucknow Super Giants",
+      "Sunrisers Hyderabad",
+      "Royal Challengers Bengaluru"
+    ],
+    "Batting": {
+      "Innings": 38,
+      "Runs": 545,
+      "Balls": 448,
+      "HighestScore": "59*",
+      "Fifties": 1,
+      "Hundreds": 0,
+      "Sixes": 25,
+      "Fours": 29,
+      "StrikeRate": 121.65,
+      "BattingAvg": 18.79,
+      "NotOuts": 9,
+      "Catches": 21,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 45,
+      "Overs": "98.00",
+      "Runs": 939,
+      "Wickets": 22
+    }
+  },
+  "19351": {
+    "dob": "05 September 2000",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png",
+    "iplDebut": "2020",
+    "specialization": "Bowler",
+    "matches": "77",
+    "PlayerId": "520",
+    "PlayerName": "Ravi Bishnoi",
+    "teams": [
+      "Lucknow Super Giants"
+    ],
+    "Batting": {
+      "Innings": 18,
+      "Runs": 45,
+      "Balls": 66,
+      "HighestScore": "13",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 2,
+      "Fours": 2,
+      "StrikeRate": 68.18,
+      "BattingAvg": 4.5,
+      "NotOuts": 8,
+      "Catches": 26,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 76,
+      "Overs": "271.20",
+      "Runs": 2229,
+      "Wickets": 72
+    }
+  },
+  "19352": {
+    "dob": "28 October 2001",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/525.png",
+    "iplDebut": "2020",
+    "specialization": "All Rounder",
+    "matches": "63",
+    "PlayerId": "525",
+    "PlayerName": "Abdul Samad",
+    "teams": [
+      "Lucknow Super Giants",
+      "Sunrisers Hyderabad"
+    ],
+    "Batting": {
+      "Innings": 52,
+      "Runs": 741,
+      "Balls": 488,
+      "HighestScore": "45",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 50,
+      "Fours": 45,
+      "StrikeRate": 151.84,
+      "BattingAvg": 19.5,
+      "NotOuts": 14,
+      "Catches": 31,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 6,
+      "Overs": "9.30",
+      "Runs": 119,
+      "Wickets": 2
+    }
+  },
+  "20586": {
+    "dob": "03 December 1999",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/985.png",
+    "iplDebut": "2022",
+    "specialization": "All Rounder",
+    "matches": "56",
+    "PlayerId": "985",
+    "PlayerName": "Ayush Badoni",
+    "teams": [
+      "Lucknow Super Giants"
+    ],
+    "Batting": {
+      "Innings": 46,
+      "Runs": 963,
+      "Balls": 695,
+      "HighestScore": "74",
+      "Fifties": 6,
+      "Hundreds": 0,
+      "Sixes": 38,
+      "Fours": 73,
+      "StrikeRate": 138.56,
+      "BattingAvg": 26.75,
+      "NotOuts": 10,
+      "Catches": 18,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 7,
+      "Overs": "5.80",
+      "Runs": 49,
+      "Wickets": 4
+    }
+  },
+  "20594": {
+    "dob": "08 November 2002",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/993.png",
+    "iplDebut": "2022",
+    "specialization": "Batter",
+    "matches": "54",
+    "PlayerId": "993",
+    "PlayerName": "Tilak Varma",
+    "teams": [
+      "Mumbai Indians"
+    ],
+    "Batting": {
+      "Innings": 51,
+      "Runs": 1499,
+      "Balls": 1038,
+      "HighestScore": "84*",
+      "Fifties": 8,
+      "Hundreds": 0,
+      "Sixes": 74,
+      "Fours": 113,
+      "StrikeRate": 144.41,
+      "BattingAvg": 37.48,
+      "NotOuts": 11,
+      "Catches": 32,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 4,
+      "Overs": "3.70",
+      "Runs": 28,
+      "Wickets": 0
+    }
+  },
+  "20696": {
+    "dob": "04 September 1993",
+    "nationality": "Indian",
+    "profilePhoto": "https://documents.iplt20.com/ipl/IPLHeadshot2025/192.png",
+    "iplDebut": "2014",
+    "specialization": "Bowler",
+    "matches": "52",
+    "PlayerId": "192",
+    "PlayerName": "Shreyas Gopal",
+    "teams": [
+      "Mumbai Indians",
+      "Sunrisers Hyderabad"
+    ],
+    "Batting": {
+      "Innings": 22,
+      "Runs": 180,
+      "Balls": 169,
+      "HighestScore": "24",
+      "Fifties": 0,
+      "Hundreds": 0,
+      "Sixes": 2,
+      "Fours": 19,
+      "StrikeRate": 106.51,
+      "BattingAvg": 12.86,
+      "NotOuts": 8,
+      "Catches": 12,
+      "Stumpings": 0
+    },
+    "Bowling": {
+      "Innings": 51,
+      "Overs": "165.20",
+      "Runs": 1349,
+      "Wickets": 52
     }
   }
 }
