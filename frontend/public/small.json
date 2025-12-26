@@ -8,6 +8,7 @@
     "matches": "278",
     "PlayerId": "57",
     "PlayerName": "MS Dhoni",
+    "lastTeam": "Chennai Super Kings",
     "teams": [
       "Chennai Super Kings"
     ],
@@ -42,6 +43,7 @@
     "matches": "106",
     "PlayerId": "53",
     "PlayerName": "Murali Vijay",
+    "lastTeam": "Chennai Super Kings",
     "teams": [
       "Chennai Super Kings",
       "Punjab Kings",
@@ -78,6 +80,7 @@
     "matches": "221",
     "PlayerId": "45",
     "PlayerName": "Ravichandran Ashwin",
+    "lastTeam": "Chennai Super Kings",
     "teams": [
       "Chennai Super Kings",
       "Rajasthan Royals"
@@ -113,6 +116,7 @@
     "matches": "254",
     "PlayerId": "46",
     "PlayerName": "Ravindra Jadeja",
+    "lastTeam": "Chennai Super Kings",
     "teams": [
       "Chennai Super Kings"
     ],
@@ -147,6 +151,7 @@
     "matches": "95",
     "PlayerId": "0",
     "PlayerName": "Subramaniam Badrinath",
+    "lastTeam": "Chennai Super Kings",
     "teams": [
       "Chennai Super Kings"
     ],
@@ -181,6 +186,7 @@
     "matches": "205",
     "PlayerId": "106",
     "PlayerName": "Suresh Raina",
+    "lastTeam": "Chennai Super Kings",
     "teams": [
       "Chennai Super Kings"
     ],
@@ -215,6 +221,7 @@
     "matches": "170",
     "PlayerId": "225",
     "PlayerName": "Wriddhiman Saha",
+    "lastTeam": "Gujarat Titans",
     "teams": [
       "Gujarat Titans"
     ],
@@ -249,6 +256,7 @@
     "matches": "59",
     "PlayerId": "0",
     "PlayerName": "Michael Hussey",
+    "lastTeam": "Chennai Super Kings",
     "teams": [
       "Chennai Super Kings",
       "Mumbai Indians"
@@ -284,6 +292,7 @@
     "matches": "154",
     "PlayerId": "94",
     "PlayerName": "Faf du Plessis",
+    "lastTeam": "Delhi Capitals",
     "teams": [
       "Delhi Capitals",
       "Royal Challengers Bengaluru"
@@ -319,6 +328,7 @@
     "matches": "161",
     "PlayerId": "93",
     "PlayerName": "Dwayne Bravo",
+    "lastTeam": "Chennai Super Kings",
     "teams": [
       "Chennai Super Kings"
     ],
@@ -353,6 +363,7 @@
     "matches": "91",
     "PlayerId": "481",
     "PlayerName": "Albie Morkel",
+    "lastTeam": "Unknown",
     "teams": [
       "Delhi Capitals",
       "Royal Challengers Bangalore",
@@ -389,6 +400,7 @@
     "matches": "71",
     "PlayerId": "0",
     "PlayerName": "Kumar Sangakkara",
+    "lastTeam": "Sunrisers Hyderabad",
     "teams": [
       "Sunrisers Hyderabad",
       "Punjab Kings"
@@ -424,6 +436,7 @@
     "matches": "162",
     "PlayerId": "107",
     "PlayerName": "Amit Mishra",
+    "lastTeam": "Lucknow Super Giants",
     "teams": [
       "Lucknow Super Giants",
       "Delhi Capitals",
@@ -460,6 +473,7 @@
     "matches": "117",
     "PlayerId": "50",
     "PlayerName": "Ishant Sharma",
+    "lastTeam": "Gujarat Titans",
     "teams": [
       "Gujarat Titans",
       "Delhi Capitals",
@@ -497,6 +511,7 @@
     "matches": "222",
     "PlayerId": "11",
     "PlayerName": "Shikhar Dhawan",
+    "lastTeam": "Punjab Kings",
     "teams": [
       "Punjab Kings"
     ],
@@ -531,6 +546,7 @@
     "matches": "139",
     "PlayerId": "48",
     "PlayerName": "Parthiv Patel",
+    "lastTeam": "Royal Challengers Bangalore",
     "teams": [
       "Royal Challengers Bangalore",
       "Mumbai Indians",
@@ -568,6 +584,7 @@
     "matches": "104",
     "PlayerId": "461",
     "PlayerName": "Virender Sehwag",
+    "lastTeam": "Punjab Kings",
     "teams": [
       "Punjab Kings",
       "Delhi Capitals"
@@ -603,6 +620,7 @@
     "matches": "78",
     "PlayerId": "0",
     "PlayerName": "Ashok Dinda",
+    "lastTeam": "Unknown",
     "teams": [
       "Royal Challengers Bangalore",
       "Kolkata Knight Riders"
@@ -638,6 +656,7 @@
     "matches": "103",
     "PlayerId": "458",
     "PlayerName": "Irfan Pathan",
+    "lastTeam": "Unknown",
     "teams": [
       "Sunrisers Hyderabad",
       "Delhi Capitals",
@@ -674,6 +693,7 @@
     "matches": "113",
     "PlayerId": "0",
     "PlayerName": "Naman Ojha",
+    "lastTeam": "Delhi Capitals",
     "teams": [
       "Delhi Capitals",
       "Sunrisers Hyderabad",
@@ -710,6 +730,7 @@
     "matches": "72",
     "PlayerId": "221",
     "PlayerName": "Shahbaz Nadeem",
+    "lastTeam": "Lucknow Super Giants",
     "teams": [
       "Lucknow Super Giants"
     ],
@@ -744,6 +765,7 @@
     "matches": "148",
     "PlayerId": "21",
     "PlayerName": "Umesh Yadav",
+    "lastTeam": "Gujarat Titans",
     "teams": [
       "Gujarat Titans",
       "Kolkata Knight Riders"
@@ -779,6 +801,7 @@
     "matches": "52",
     "PlayerId": "197",
     "PlayerName": "Varun Aaron",
+    "lastTeam": "Gujarat Titans",
     "teams": [
       "Gujarat Titans"
     ],
@@ -813,6 +836,7 @@
     "matches": "65",
     "PlayerId": "0",
     "PlayerName": "Venugopal Rao",
+    "lastTeam": "Sunrisers Hyderabad",
     "teams": [
       "Sunrisers Hyderabad",
       "Delhi Capitals"
@@ -848,6 +872,7 @@
     "matches": "80",
     "PlayerId": "0",
     "PlayerName": "Adam Gilchrist",
+    "lastTeam": "Punjab Kings",
     "teams": [
       "Punjab Kings"
     ],
@@ -882,6 +907,7 @@
     "matches": "60",
     "PlayerId": "0",
     "PlayerName": "Abhishek Nayar",
+    "lastTeam": "Rajasthan Royals",
     "teams": [
       "Rajasthan Royals",
       "Punjab Kings",
@@ -918,6 +944,7 @@
     "matches": "111",
     "PlayerId": "132",
     "PlayerName": "Mandeep Singh",
+    "lastTeam": "Delhi Capitals",
     "teams": [
       "Delhi Capitals"
     ],
@@ -952,6 +979,7 @@
     "matches": "192",
     "PlayerId": "149",
     "PlayerName": "Piyush Chawla",
+    "lastTeam": "Mumbai Indians",
     "teams": [
       "Mumbai Indians",
       "Kolkata Knight Riders",
@@ -988,6 +1016,7 @@
     "matches": "119",
     "PlayerId": "0",
     "PlayerName": "Praveen Kumar",
+    "lastTeam": "Unknown",
     "teams": [
       "Sunrisers Hyderabad",
       "Mumbai Indians",
@@ -1025,6 +1054,7 @@
     "matches": "154",
     "PlayerId": "999",
     "PlayerName": "Gautam Gambhir",
+    "lastTeam": "Delhi Capitals",
     "teams": [
       "Delhi Capitals",
       "Kolkata Knight Riders"
@@ -1060,6 +1090,7 @@
     "matches": "112",
     "PlayerId": "180",
     "PlayerName": "Jaydev Unadkat",
+    "lastTeam": "Sunrisers Hyderabad",
     "teams": [
       "Sunrisers Hyderabad",
       "Lucknow Super Giants",
@@ -1096,6 +1127,7 @@
     "matches": "73",
     "PlayerId": "0",
     "PlayerName": "Lakshmipathy Balaji",
+    "lastTeam": "Punjab Kings",
     "teams": [
       "Punjab Kings",
       "Kolkata Knight Riders",
@@ -1132,6 +1164,7 @@
     "matches": "98",
     "PlayerId": "0",
     "PlayerName": "Manoj Tiwary",
+    "lastTeam": "Punjab Kings",
     "teams": [
       "Punjab Kings",
       "Delhi Capitals",
@@ -1168,6 +1201,7 @@
     "matches": "95",
     "PlayerId": "0",
     "PlayerName": "Rajat Bhatia",
+    "lastTeam": "Unknown",
     "teams": [
       "Rajasthan Royals",
       "Kolkata Knight Riders",
@@ -1204,6 +1238,7 @@
     "matches": "119",
     "PlayerId": "47",
     "PlayerName": "Mohammad Shami",
+    "lastTeam": "Sunrisers Hyderabad",
     "teams": [
       "Sunrisers Hyderabad",
       "Gujarat Titans"
@@ -1239,6 +1274,7 @@
     "matches": "174",
     "PlayerId": "226",
     "PlayerName": "Yusuf Pathan",
+    "lastTeam": "Sunrisers Hyderabad",
     "teams": [
       "Sunrisers Hyderabad",
       "Kolkata Knight Riders",
@@ -1275,6 +1311,7 @@
     "matches": "78",
     "PlayerId": "233",
     "PlayerName": "Sachin Tendulkar",
+    "lastTeam": "Mumbai Indians",
     "teams": [
       "Mumbai Indians"
     ],
@@ -1309,6 +1346,7 @@
     "matches": "204",
     "PlayerId": "60",
     "PlayerName": "Ambati Rayudu",
+    "lastTeam": "Chennai Super Kings",
     "teams": [
       "Chennai Super Kings"
     ],
@@ -1343,6 +1381,7 @@
     "matches": "92",
     "PlayerId": "178",
     "PlayerName": "Dhawal Kulkarni",
+    "lastTeam": "Mumbai Indians",
     "teams": [
       "Mumbai Indians",
       "Rajasthan Royals"
@@ -1378,6 +1417,7 @@
     "matches": "257",
     "PlayerId": "13",
     "PlayerName": "Dinesh Karthik",
+    "lastTeam": "Royal Challengers Bengaluru",
     "teams": [
       "Royal Challengers Bengaluru"
     ],
@@ -1412,6 +1452,7 @@
     "matches": "163",
     "PlayerId": "95",
     "PlayerName": "Harbhajan Singh",
+    "lastTeam": "Kolkata Knight Riders",
     "teams": [
       "Kolkata Knight Riders",
       "Chennai Super Kings",
@@ -1448,6 +1489,7 @@
     "matches": "92",
     "PlayerId": "459",
     "PlayerName": "Pragyan Ojha",
+    "lastTeam": "Mumbai Indians",
     "teams": [
       "Mumbai Indians"
     ],
@@ -1482,6 +1524,7 @@
     "matches": "272",
     "PlayerId": "6",
     "PlayerName": "Rohit Sharma",
+    "lastTeam": "Mumbai Indians",
     "teams": [
       "Mumbai Indians"
     ],
@@ -1516,6 +1559,7 @@
     "matches": "166",
     "PlayerId": "174",
     "PlayerName": "Suryakumar Yadav",
+    "lastTeam": "Mumbai Indians",
     "teams": [
       "Mumbai Indians"
     ],
@@ -1550,6 +1594,7 @@
     "matches": "174",
     "PlayerId": "10",
     "PlayerName": "Yuzvendra Chahal",
+    "lastTeam": "Punjab Kings",
     "teams": [
       "Punjab Kings"
     ],
@@ -1584,6 +1629,7 @@
     "matches": "82",
     "PlayerId": "0",
     "PlayerName": "RP Singh",
+    "lastTeam": "Mumbai Indians",
     "teams": [
       "Mumbai Indians"
     ],
@@ -1618,6 +1664,7 @@
     "matches": "132",
     "PlayerId": "175",
     "PlayerName": "Yuvraj Singh",
+    "lastTeam": "Mumbai Indians",
     "teams": [
       "Mumbai Indians",
       "Punjab Kings",
@@ -1656,6 +1703,7 @@
     "matches": "88",
     "PlayerId": "0",
     "PlayerName": "Ashish Nehra",
+    "lastTeam": "Sunrisers Hyderabad",
     "teams": [
       "Sunrisers Hyderabad",
       "Chennai Super Kings",
@@ -1693,6 +1741,7 @@
     "matches": "190",
     "PlayerId": "15",
     "PlayerName": "Bhuvneshwar Kumar",
+    "lastTeam": "Royal Challengers Bengaluru",
     "teams": [
       "Royal Challengers Bengaluru",
       "Sunrisers Hyderabad"
@@ -1728,6 +1777,7 @@
     "matches": "174",
     "PlayerId": "16",
     "PlayerName": "Manish Pandey",
+    "lastTeam": "Kolkata Knight Riders",
     "teams": [
       "Kolkata Knight Riders",
       "Delhi Capitals",
@@ -1764,6 +1814,7 @@
     "matches": "56",
     "PlayerId": "0",
     "PlayerName": "Murali Kartik",
+    "lastTeam": "Royal Challengers Bangalore",
     "teams": [
       "Royal Challengers Bangalore",
       "Kolkata Knight Riders"
@@ -1799,6 +1850,7 @@
     "matches": "205",
     "PlayerId": "153",
     "PlayerName": "Robin Uthappa",
+    "lastTeam": "Chennai Super Kings",
     "teams": [
       "Chennai Super Kings"
     ],
@@ -1833,6 +1885,7 @@
     "matches": "59",
     "PlayerId": "0",
     "PlayerName": "Sourav Ganguly",
+    "lastTeam": "Unknown",
     "teams": [
       "Kolkata Knight Riders"
     ],
@@ -1867,6 +1920,7 @@
     "matches": "89",
     "PlayerId": "0",
     "PlayerName": "Rahul Dravid",
+    "lastTeam": "Rajasthan Royals",
     "teams": [
       "Rajasthan Royals",
       "Royal Challengers Bangalore"
@@ -1902,6 +1956,7 @@
     "matches": "198",
     "PlayerId": "44",
     "PlayerName": "Ajinkya Rahane",
+    "lastTeam": "Kolkata Knight Riders",
     "teams": [
       "Kolkata Knight Riders",
       "Chennai Super Kings"
@@ -1937,6 +1992,7 @@
     "matches": "95",
     "PlayerId": "91",
     "PlayerName": "Deepak Chahar",
+    "lastTeam": "Mumbai Indians",
     "teams": [
       "Mumbai Indians",
       "Chennai Super Kings"
@@ -1972,6 +2028,7 @@
     "matches": "76",
     "PlayerId": "0",
     "PlayerName": "Siddharth Trivedi",
+    "lastTeam": "Rajasthan Royals",
     "teams": [
       "Rajasthan Royals"
     ],
@@ -2006,6 +2063,7 @@
     "matches": "95",
     "PlayerId": "195",
     "PlayerName": "Stuart Binny",
+    "lastTeam": "Rajasthan Royals",
     "teams": [
       "Rajasthan Royals",
       "Royal Challengers Bangalore",
@@ -2042,6 +2100,7 @@
     "matches": "119",
     "PlayerId": "114",
     "PlayerName": "Harshal Patel",
+    "lastTeam": "Sunrisers Hyderabad",
     "teams": [
       "Sunrisers Hyderabad",
       "Punjab Kings",
@@ -2078,6 +2137,7 @@
     "matches": "131",
     "PlayerId": "55",
     "PlayerName": "Mayank Agarwal",
+    "lastTeam": "Royal Challengers Bengaluru",
     "teams": [
       "Royal Challengers Bengaluru",
       "Sunrisers Hyderabad",
@@ -2114,6 +2174,7 @@
     "matches": "93",
     "PlayerId": "540",
     "PlayerName": "Saurabh Tiwary",
+    "lastTeam": "Mumbai Indians",
     "teams": [
       "Mumbai Indians",
       "Delhi Capitals",
@@ -2150,6 +2211,7 @@
     "matches": "267",
     "PlayerId": "2",
     "PlayerName": "Virat Kohli",
+    "lastTeam": "Royal Challengers Bengaluru",
     "teams": [
       "Royal Challengers Bengaluru"
     ],
@@ -2184,6 +2246,7 @@
     "matches": "100",
     "PlayerId": "462",
     "PlayerName": "Zaheer Khan",
+    "lastTeam": "Delhi Capitals",
     "teams": [
       "Delhi Capitals",
       "Mumbai Indians",
@@ -2220,6 +2283,7 @@
     "matches": "105",
     "PlayerId": "0",
     "PlayerName": "Vinay Kumar",
+    "lastTeam": "Kolkata Knight Riders",
     "teams": [
       "Kolkata Knight Riders",
       "Mumbai Indians",
@@ -2256,6 +2320,7 @@
     "matches": "92",
     "PlayerId": "3",
     "PlayerName": "Aaron Finch",
+    "lastTeam": "Kolkata Knight Riders",
     "teams": [
       "Kolkata Knight Riders"
     ],
@@ -2290,6 +2355,7 @@
     "matches": "70",
     "PlayerId": "0",
     "PlayerName": "Morne Morkel",
+    "lastTeam": "Kolkata Knight Riders",
     "teams": [
       "Kolkata Knight Riders",
       "Delhi Capitals",
@@ -2326,6 +2392,7 @@
     "matches": "184",
     "PlayerId": "214",
     "PlayerName": "David Warner",
+    "lastTeam": "Delhi Capitals",
     "teams": [
       "Delhi Capitals"
     ],
@@ -2360,6 +2427,7 @@
     "matches": "80",
     "PlayerId": "0",
     "PlayerName": "Mahela Jayawardena",
+    "lastTeam": "Delhi Capitals",
     "teams": [
       "Delhi Capitals",
       "Punjab Kings"
@@ -2395,6 +2463,7 @@
     "matches": "140",
     "PlayerId": "141",
     "PlayerName": "Andre Russell",
+    "lastTeam": "Kolkata Knight Riders",
     "teams": [
       "Kolkata Knight Riders"
     ],
@@ -2429,6 +2498,7 @@
     "matches": "95",
     "PlayerId": "230",
     "PlayerName": "Dale Steyn",
+    "lastTeam": "Royal Challengers Bangalore",
     "teams": [
       "Royal Challengers Bangalore",
       "Sunrisers Hyderabad"
@@ -2464,6 +2534,7 @@
     "matches": "83",
     "PlayerId": "0",
     "PlayerName": "JP Duminy",
+    "lastTeam": "Mumbai Indians",
     "teams": [
       "Mumbai Indians",
       "Delhi Capitals"
@@ -2499,6 +2570,7 @@
     "matches": "64",
     "PlayerId": "0",
     "PlayerName": "David Hussey",
+    "lastTeam": "Chennai Super Kings",
     "teams": [
       "Chennai Super Kings",
       "Punjab Kings",
@@ -2535,6 +2607,7 @@
     "matches": "141",
     "PlayerId": "128",
     "PlayerName": "David Miller",
+    "lastTeam": "Lucknow Super Giants",
     "teams": [
       "Lucknow Super Giants",
       "Gujarat Titans"
@@ -2570,6 +2643,7 @@
     "matches": "71",
     "PlayerId": "41",
     "PlayerName": "Shaun Marsh",
+    "lastTeam": "Punjab Kings",
     "teams": [
       "Punjab Kings"
     ],
@@ -2604,6 +2678,7 @@
     "matches": "60",
     "PlayerId": "0",
     "PlayerName": "James Faulkner",
+    "lastTeam": "Unknown",
     "teams": [
       "Rajasthan Royals",
       "Punjab Kings"
@@ -2639,6 +2714,7 @@
     "matches": "83",
     "PlayerId": "308",
     "PlayerName": "Eoin Morgan",
+    "lastTeam": "Kolkata Knight Riders",
     "teams": [
       "Kolkata Knight Riders",
       "Punjab Kings",
@@ -2676,6 +2752,7 @@
     "matches": "98",
     "PlayerId": "0",
     "PlayerName": "Jacques Kallis",
+    "lastTeam": "Kolkata Knight Riders",
     "teams": [
       "Kolkata Knight Riders",
       "Royal Challengers Bangalore"
@@ -2711,6 +2788,7 @@
     "matches": "71",
     "PlayerId": "222",
     "PlayerName": "Shakib Al Hasan",
+    "lastTeam": "Kolkata Knight Riders",
     "teams": [
       "Kolkata Knight Riders",
       "Sunrisers Hyderabad"
@@ -2746,6 +2824,7 @@
     "matches": "109",
     "PlayerId": "0",
     "PlayerName": "Brendon McCullum",
+    "lastTeam": "Royal Challengers Bangalore",
     "teams": [
       "Royal Challengers Bangalore",
       "Chennai Super Kings",
@@ -2782,6 +2861,7 @@
     "matches": "189",
     "PlayerId": "156",
     "PlayerName": "Sunil Narine",
+    "lastTeam": "Kolkata Knight Riders",
     "teams": [
       "Kolkata Knight Riders"
     ],
@@ -2816,6 +2896,7 @@
     "matches": "189",
     "PlayerId": "166",
     "PlayerName": "Kieron Pollard",
+    "lastTeam": "Mumbai Indians",
     "teams": [
       "Mumbai Indians"
     ],
@@ -2850,6 +2931,7 @@
     "matches": "122",
     "PlayerId": "167",
     "PlayerName": "Lasith Malinga",
+    "lastTeam": "Mumbai Indians",
     "teams": [
       "Mumbai Indians"
     ],
@@ -2884,6 +2966,7 @@
     "matches": "54",
     "PlayerId": "0",
     "PlayerName": "Mitchell Johnson",
+    "lastTeam": "Kolkata Knight Riders",
     "teams": [
       "Kolkata Knight Riders",
       "Mumbai Indians",
@@ -2920,6 +3003,7 @@
     "matches": "55",
     "PlayerId": "40",
     "PlayerName": "Mitchell Marsh",
+    "lastTeam": "Lucknow Super Giants",
     "teams": [
       "Lucknow Super Giants",
       "Delhi Capitals"
@@ -2955,6 +3039,7 @@
     "matches": "55",
     "PlayerId": "78",
     "PlayerName": "Ross Taylor",
+    "lastTeam": "Delhi Capitals",
     "teams": [
       "Delhi Capitals",
       "Rajasthan Royals",
@@ -2991,6 +3076,7 @@
     "matches": "145",
     "PlayerId": "104",
     "PlayerName": "Shane Watson",
+    "lastTeam": "Chennai Super Kings",
     "teams": [
       "Chennai Super Kings",
       "Royal Challengers Bangalore",
@@ -3027,6 +3113,7 @@
     "matches": "66",
     "PlayerId": "449",
     "PlayerName": "Brad Hodge",
+    "lastTeam": "Rajasthan Royals",
     "teams": [
       "Rajasthan Royals",
       "Kolkata Knight Riders"
@@ -3062,6 +3149,7 @@
     "matches": "184",
     "PlayerId": "198",
     "PlayerName": "AB de Villiers",
+    "lastTeam": "Royal Challengers Bangalore",
     "teams": [
       "Royal Challengers Bangalore",
       "Delhi Capitals"
@@ -3097,6 +3185,7 @@
     "matches": "142",
     "PlayerId": "126",
     "PlayerName": "Chris Gayle",
+    "lastTeam": "Punjab Kings",
     "teams": [
       "Punjab Kings",
       "Royal Challengers Bangalore",
@@ -3133,6 +3222,7 @@
     "matches": "177",
     "PlayerId": "190",
     "PlayerName": "Sanju Samson",
+    "lastTeam": "Rajasthan Royals",
     "teams": [
       "Rajasthan Royals"
     ],
@@ -3167,6 +3257,7 @@
     "matches": "98",
     "PlayerId": "14",
     "PlayerName": "Kuldeep Yadav",
+    "lastTeam": "Delhi Capitals",
     "teams": [
       "Delhi Capitals"
     ],
@@ -3201,6 +3292,7 @@
     "matches": "103",
     "PlayerId": "0",
     "PlayerName": "Steve Smith",
+    "lastTeam": "Delhi Capitals",
     "teams": [
       "Delhi Capitals",
       "Rajasthan Royals"
@@ -3236,6 +3328,7 @@
     "matches": "84",
     "PlayerId": "131",
     "PlayerName": "Karun Nair",
+    "lastTeam": "Delhi Capitals",
     "teams": [
       "Delhi Capitals",
       "Rajasthan Royals"
@@ -3271,6 +3364,7 @@
     "matches": "141",
     "PlayerId": "28",
     "PlayerName": "Glenn Maxwell",
+    "lastTeam": "Punjab Kings",
     "teams": [
       "Punjab Kings",
       "Royal Challengers Bengaluru"
@@ -3306,6 +3400,7 @@
     "matches": "55",
     "PlayerId": "0",
     "PlayerName": "Shane Warne",
+    "lastTeam": "Rajasthan Royals",
     "teams": [
       "Rajasthan Royals"
     ],
@@ -3340,6 +3435,7 @@
     "matches": "95",
     "PlayerId": "58",
     "PlayerName": "Kedar Jadhav",
+    "lastTeam": "Sunrisers Hyderabad",
     "teams": [
       "Sunrisers Hyderabad",
       "Chennai Super Kings",
@@ -3377,6 +3473,7 @@
     "matches": "62",
     "PlayerId": "133",
     "PlayerName": "Moises Henriques",
+    "lastTeam": "Punjab Kings",
     "teams": [
       "Punjab Kings",
       "Sunrisers Hyderabad",
@@ -3415,6 +3512,7 @@
     "matches": "91",
     "PlayerId": "0",
     "PlayerName": "Dwayne Smith",
+    "lastTeam": "Unknown",
     "teams": [
       "Chennai Super Kings",
       "Mumbai Indians"
@@ -3450,6 +3548,7 @@
     "matches": "79",
     "PlayerId": "65",
     "PlayerName": "Kane Williamson",
+    "lastTeam": "Gujarat Titans",
     "teams": [
       "Gujarat Titans",
       "Sunrisers Hyderabad"
@@ -3485,6 +3584,7 @@
     "matches": "72",
     "PlayerId": "33",
     "PlayerName": "Pat Cummins",
+    "lastTeam": "Sunrisers Hyderabad",
     "teams": [
       "Sunrisers Hyderabad",
       "Kolkata Knight Riders"
@@ -3520,6 +3620,7 @@
     "matches": "52",
     "PlayerId": "31",
     "PlayerName": "Mitchell Starc",
+    "lastTeam": "Delhi Capitals",
     "teams": [
       "Delhi Capitals",
       "Kolkata Knight Riders",
@@ -3556,6 +3657,7 @@
     "matches": "52",
     "PlayerId": "216",
     "PlayerName": "Jonny Bairstow",
+    "lastTeam": "Mumbai Indians",
     "teams": [
       "Mumbai Indians",
       "Punjab Kings"
@@ -3591,6 +3693,7 @@
     "matches": "121",
     "PlayerId": "182",
     "PlayerName": "Jos Buttler",
+    "lastTeam": "Gujarat Titans",
     "teams": [
       "Gujarat Titans",
       "Rajasthan Royals"
@@ -3626,6 +3729,7 @@
     "matches": "56",
     "PlayerId": "0",
     "PlayerName": "Mitchell McClenaghan",
+    "lastTeam": "Mumbai Indians",
     "teams": [
       "Mumbai Indians"
     ],
@@ -3660,6 +3764,7 @@
     "matches": "115",
     "PlayerId": "170",
     "PlayerName": "Quinton de Kock",
+    "lastTeam": "Kolkata Knight Riders",
     "teams": [
       "Kolkata Knight Riders",
       "Lucknow Super Giants"
@@ -3695,6 +3800,7 @@
     "matches": "81",
     "PlayerId": "112",
     "PlayerName": "Chris Morris",
+    "lastTeam": "Rajasthan Royals",
     "teams": [
       "Rajasthan Royals",
       "Royal Challengers Bangalore",
@@ -3732,6 +3838,7 @@
     "matches": "109",
     "PlayerId": "23",
     "PlayerName": "Marcus Stoinis",
+    "lastTeam": "Punjab Kings",
     "teams": [
       "Punjab Kings",
       "Lucknow Super Giants"
@@ -3767,6 +3874,7 @@
     "matches": "120",
     "PlayerId": "66",
     "PlayerName": "Trent Boult",
+    "lastTeam": "Mumbai Indians",
     "teams": [
       "Mumbai Indians",
       "Rajasthan Royals"
@@ -3802,6 +3910,7 @@
     "matches": "78",
     "PlayerId": "61",
     "PlayerName": "Vijay Shankar",
+    "lastTeam": "Chennai Super Kings",
     "teams": [
       "Chennai Super Kings",
       "Gujarat Titans"
@@ -3837,6 +3946,7 @@
     "matches": "56",
     "PlayerId": "185",
     "PlayerName": "Manan Vohra",
+    "lastTeam": "Lucknow Super Giants",
     "teams": [
       "Lucknow Super Giants"
     ],
@@ -3871,6 +3981,7 @@
     "matches": "55",
     "PlayerId": "64",
     "PlayerName": "Siddarth Kaul",
+    "lastTeam": "Royal Challengers Bengaluru",
     "teams": [
       "Royal Challengers Bengaluru"
     ],
@@ -3905,6 +4016,7 @@
     "matches": "120",
     "PlayerId": "100",
     "PlayerName": "Mohit Sharma",
+    "lastTeam": "Delhi Capitals",
     "teams": [
       "Delhi Capitals",
       "Gujarat Titans",
@@ -3942,6 +4054,7 @@
     "matches": "137",
     "PlayerId": "220",
     "PlayerName": "Sandeep Sharma",
+    "lastTeam": "Rajasthan Royals",
     "teams": [
       "Rajasthan Royals",
       "Punjab Kings"
@@ -3977,6 +4090,7 @@
     "matches": "162",
     "PlayerId": "110",
     "PlayerName": "Axar Patel",
+    "lastTeam": "Delhi Capitals",
     "teams": [
       "Delhi Capitals"
     ],
@@ -4011,6 +4125,7 @@
     "matches": "90",
     "PlayerId": "98",
     "PlayerName": "Karn Sharma",
+    "lastTeam": "Mumbai Indians",
     "teams": [
       "Mumbai Indians",
       "Royal Challengers Bengaluru"
@@ -4046,6 +4161,7 @@
     "matches": "145",
     "PlayerId": "9",
     "PlayerName": "Jasprit Bumrah",
+    "lastTeam": "Mumbai Indians",
     "teams": [
       "Mumbai Indians"
     ],
@@ -4080,6 +4196,7 @@
     "matches": "145",
     "PlayerId": "19",
     "PlayerName": "KL Rahul",
+    "lastTeam": "Delhi Capitals",
     "teams": [
       "Delhi Capitals",
       "Lucknow Super Giants"
@@ -4115,6 +4232,7 @@
     "matches": "125",
     "PlayerId": "215",
     "PlayerName": "Deepak Hooda",
+    "lastTeam": "Chennai Super Kings",
     "teams": [
       "Chennai Super Kings",
       "Lucknow Super Giants"
@@ -4150,6 +4268,7 @@
     "matches": "76",
     "PlayerId": "109",
     "PlayerName": "Avesh Khan",
+    "lastTeam": "Lucknow Super Giants",
     "teams": [
       "Lucknow Super Giants",
       "Rajasthan Royals"
@@ -4185,6 +4304,7 @@
     "matches": "133",
     "PlayerId": "12",
     "PlayerName": "Shreyas Iyer",
+    "lastTeam": "Punjab Kings",
     "teams": [
       "Punjab Kings",
       "Kolkata Knight Riders"
@@ -4220,6 +4340,7 @@
     "matches": "60",
     "PlayerId": "258",
     "PlayerName": "Mustafizur Rahman",
+    "lastTeam": "Delhi Capitals",
     "teams": [
       "Delhi Capitals",
       "Chennai Super Kings"
@@ -4255,6 +4376,7 @@
     "matches": "84",
     "PlayerId": "116",
     "PlayerName": "Kagiso Rabada",
+    "lastTeam": "Gujarat Titans",
     "teams": [
       "Gujarat Titans",
       "Punjab Kings"
@@ -4290,6 +4412,7 @@
     "matches": "57",
     "PlayerId": "287",
     "PlayerName": "Aiden Markram",
+    "lastTeam": "Lucknow Super Giants",
     "teams": [
       "Lucknow Super Giants",
       "Sunrisers Hyderabad"
@@ -4325,6 +4448,7 @@
     "matches": "90",
     "PlayerId": "136",
     "PlayerName": "Nicholas Pooran",
+    "lastTeam": "Lucknow Super Giants",
     "teams": [
       "Lucknow Super Giants",
       "Sunrisers Hyderabad"
@@ -4360,6 +4484,7 @@
     "matches": "86",
     "PlayerId": "210",
     "PlayerName": "Shimron Hetmyer",
+    "lastTeam": "Rajasthan Royals",
     "teams": [
       "Rajasthan Royals"
     ],
@@ -4394,6 +4519,7 @@
     "matches": "73",
     "PlayerId": "206",
     "PlayerName": "Moeen Ali",
+    "lastTeam": "Kolkata Knight Riders",
     "teams": [
       "Kolkata Knight Riders",
       "Chennai Super Kings"
@@ -4429,6 +4555,7 @@
     "matches": "105",
     "PlayerId": "105",
     "PlayerName": "Shardul Thakur",
+    "lastTeam": "Lucknow Super Giants",
     "teams": [
       "Lucknow Super Giants",
       "Chennai Super Kings",
@@ -4466,6 +4593,7 @@
     "matches": "108",
     "PlayerId": "120",
     "PlayerName": "Rahul Tewatia",
+    "lastTeam": "Gujarat Titans",
     "teams": [
       "Gujarat Titans"
     ],
@@ -4500,6 +4628,7 @@
     "matches": "118",
     "PlayerId": "148",
     "PlayerName": "Nitish Rana",
+    "lastTeam": "Rajasthan Royals",
     "teams": [
       "Rajasthan Royals",
       "Kolkata Knight Riders"
@@ -4535,6 +4664,7 @@
     "matches": "152",
     "PlayerId": "54",
     "PlayerName": "Hardik Pandya",
+    "lastTeam": "Mumbai Indians",
     "teams": [
       "Mumbai Indians",
       "Gujarat Titans"
@@ -4570,6 +4700,7 @@
     "matches": "136",
     "PlayerId": "218",
     "PlayerName": "Rashid Khan",
+    "lastTeam": "Gujarat Titans",
     "teams": [
       "Gujarat Titans"
     ],
@@ -4604,6 +4735,7 @@
     "matches": "64",
     "PlayerId": "138",
     "PlayerName": "Sam Curran",
+    "lastTeam": "Chennai Super Kings",
     "teams": [
       "Chennai Super Kings",
       "Punjab Kings"
@@ -4639,6 +4771,7 @@
     "matches": "71",
     "PlayerId": "8",
     "PlayerName": "Khaleel Ahmed",
+    "lastTeam": "Chennai Super Kings",
     "teams": [
       "Chennai Super Kings",
       "Delhi Capitals"
@@ -4674,6 +4807,7 @@
     "matches": "125",
     "PlayerId": "18",
     "PlayerName": "Rishabh Pant",
+    "lastTeam": "Lucknow Super Giants",
     "teams": [
       "Lucknow Super Giants",
       "Delhi Capitals"
@@ -4709,6 +4843,7 @@
     "matches": "66",
     "PlayerId": "20",
     "PlayerName": "Washington Sundar",
+    "lastTeam": "Gujarat Titans",
     "teams": [
       "Gujarat Titans",
       "Sunrisers Hyderabad"
@@ -4744,6 +4879,7 @@
     "matches": "119",
     "PlayerId": "164",
     "PlayerName": "Ishan Kishan",
+    "lastTeam": "Sunrisers Hyderabad",
     "teams": [
       "Sunrisers Hyderabad",
       "Mumbai Indians"
@@ -4779,6 +4915,7 @@
     "matches": "142",
     "PlayerId": "17",
     "PlayerName": "Krunal Pandya",
+    "lastTeam": "Royal Challengers Bengaluru",
     "teams": [
       "Royal Challengers Bengaluru",
       "Lucknow Super Giants"
@@ -4814,6 +4951,7 @@
     "matches": "55",
     "PlayerId": "1000",
     "PlayerName": "Jitesh Sharma",
+    "lastTeam": "Royal Challengers Bengaluru",
     "teams": [
       "Royal Challengers Bengaluru",
       "Punjab Kings"
@@ -4849,6 +4987,7 @@
     "matches": "52",
     "PlayerId": "181",
     "PlayerName": "Jofra Archer",
+    "lastTeam": "Rajasthan Royals",
     "teams": [
       "Rajasthan Royals",
       "Mumbai Indians"
@@ -4884,6 +5023,7 @@
     "matches": "77",
     "PlayerId": "212",
     "PlayerName": "Abhishek Sharma",
+    "lastTeam": "Sunrisers Hyderabad",
     "teams": [
       "Sunrisers Hyderabad"
     ],
@@ -4918,6 +5058,7 @@
     "matches": "118",
     "PlayerId": "62",
     "PlayerName": "Shubman Gill",
+    "lastTeam": "Gujarat Titans",
     "teams": [
       "Gujarat Titans"
     ],
@@ -4952,6 +5093,7 @@
     "matches": "79",
     "PlayerId": "171",
     "PlayerName": "Rahul Chahar",
+    "lastTeam": "Sunrisers Hyderabad",
     "teams": [
       "Sunrisers Hyderabad",
       "Punjab Kings"
@@ -4987,6 +5129,7 @@
     "matches": "79",
     "PlayerId": "51",
     "PlayerName": "Prithvi Shaw",
+    "lastTeam": "Delhi Capitals",
     "teams": [
       "Delhi Capitals"
     ],
@@ -5021,6 +5164,7 @@
     "matches": "59",
     "PlayerId": "152",
     "PlayerName": "Rinku Singh",
+    "lastTeam": "Kolkata Knight Riders",
     "teams": [
       "Kolkata Knight Riders"
     ],
@@ -5055,6 +5199,7 @@
     "matches": "63",
     "PlayerId": "224",
     "PlayerName": "T Natarajan",
+    "lastTeam": "Delhi Capitals",
     "teams": [
       "Delhi Capitals",
       "Sunrisers Hyderabad"
@@ -5090,6 +5235,7 @@
     "matches": "100",
     "PlayerId": "188",
     "PlayerName": "Rahul Tripathi",
+    "lastTeam": "Chennai Super Kings",
     "teams": [
       "Chennai Super Kings",
       "Sunrisers Hyderabad"
@@ -5125,6 +5271,7 @@
     "matches": "108",
     "PlayerId": "63",
     "PlayerName": "Mohammed Siraj",
+    "lastTeam": "Gujarat Titans",
     "teams": [
       "Gujarat Titans",
       "Royal Challengers Bengaluru"
@@ -5160,6 +5307,7 @@
     "matches": "84",
     "PlayerId": "189",
     "PlayerName": "Riyan Parag",
+    "lastTeam": "Rajasthan Royals",
     "teams": [
       "Rajasthan Royals"
     ],
@@ -5194,6 +5342,7 @@
     "matches": "82",
     "PlayerId": "125",
     "PlayerName": "Arshdeep Singh",
+    "lastTeam": "Punjab Kings",
     "teams": [
       "Punjab Kings"
     ],
@@ -5228,6 +5377,7 @@
     "matches": "66",
     "PlayerId": "150",
     "PlayerName": "Prasidh Krishna",
+    "lastTeam": "Gujarat Titans",
     "teams": [
       "Gujarat Titans",
       "Rajasthan Royals"
@@ -5263,6 +5413,7 @@
     "matches": "74",
     "PlayerId": "200",
     "PlayerName": "Devdutt Padikkal",
+    "lastTeam": "Royal Challengers Bengaluru",
     "teams": [
       "Royal Challengers Bengaluru",
       "Lucknow Super Giants",
@@ -5299,6 +5450,7 @@
     "matches": "79",
     "PlayerId": "211",
     "PlayerName": "Shivam Dube",
+    "lastTeam": "Chennai Super Kings",
     "teams": [
       "Chennai Super Kings"
     ],
@@ -5333,6 +5485,7 @@
     "matches": "84",
     "PlayerId": "140",
     "PlayerName": "Varun Chakaravarthy",
+    "lastTeam": "Kolkata Knight Riders",
     "teams": [
       "Kolkata Knight Riders"
     ],
@@ -5367,6 +5520,7 @@
     "matches": "51",
     "PlayerId": "137",
     "PlayerName": "Prabhsimran Singh",
+    "lastTeam": "Punjab Kings",
     "teams": [
       "Punjab Kings"
     ],
@@ -5401,6 +5555,7 @@
     "matches": "71",
     "PlayerId": "102",
     "PlayerName": "Ruturaj Gaikwad",
+    "lastTeam": "Chennai Super Kings",
     "teams": [
       "Chennai Super Kings"
     ],
@@ -5435,6 +5590,7 @@
     "matches": "55",
     "PlayerId": "590",
     "PlayerName": "Shahrukh Khan",
+    "lastTeam": "Gujarat Titans",
     "teams": [
       "Gujarat Titans",
       "Punjab Kings"
@@ -5470,6 +5626,7 @@
     "matches": "62",
     "PlayerId": "584",
     "PlayerName": "Venkatesh Iyer",
+    "lastTeam": "Kolkata Knight Riders",
     "teams": [
       "Kolkata Knight Riders"
     ],
@@ -5504,6 +5661,7 @@
     "matches": "67",
     "PlayerId": "533",
     "PlayerName": "Yashasvi Jaiswal",
+    "lastTeam": "Rajasthan Royals",
     "teams": [
       "Rajasthan Royals"
     ],
@@ -5538,6 +5696,7 @@
     "matches": "58",
     "PlayerId": "523",
     "PlayerName": "Shahbaz Ahmed",
+    "lastTeam": "Lucknow Super Giants",
     "teams": [
       "Lucknow Super Giants",
       "Sunrisers Hyderabad",
@@ -5574,6 +5733,7 @@
     "matches": "77",
     "PlayerId": "520",
     "PlayerName": "Ravi Bishnoi",
+    "lastTeam": "Lucknow Super Giants",
     "teams": [
       "Lucknow Super Giants"
     ],
@@ -5608,6 +5768,7 @@
     "matches": "63",
     "PlayerId": "525",
     "PlayerName": "Abdul Samad",
+    "lastTeam": "Lucknow Super Giants",
     "teams": [
       "Lucknow Super Giants",
       "Sunrisers Hyderabad"
@@ -5643,6 +5804,7 @@
     "matches": "56",
     "PlayerId": "985",
     "PlayerName": "Ayush Badoni",
+    "lastTeam": "Lucknow Super Giants",
     "teams": [
       "Lucknow Super Giants"
     ],
@@ -5677,6 +5839,7 @@
     "matches": "54",
     "PlayerId": "993",
     "PlayerName": "Tilak Varma",
+    "lastTeam": "Mumbai Indians",
     "teams": [
       "Mumbai Indians"
     ],
@@ -5711,6 +5874,7 @@
     "matches": "52",
     "PlayerId": "192",
     "PlayerName": "Shreyas Gopal",
+    "lastTeam": "Mumbai Indians",
     "teams": [
       "Mumbai Indians",
       "Sunrisers Hyderabad"
