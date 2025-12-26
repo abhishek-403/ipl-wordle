@@ -43,6 +43,7 @@ interface RawPlayerData {
   PlayerId: string;
   PlayerName: string;
   teams: string[];
+  lastTeam: string;
   Batting: BattingStats;
   Bowling: BowlingStats;
 }
@@ -123,9 +124,17 @@ const FIELD_CONFIG: FieldConfig[] = [
     label: "Team",
     type: "exact",
     display: (p) => (
-      <span className="text-sm font-bold leading-tight">{p.currentTeam}</span>
+      <span className="text-sm font-bold leading-tight">{p.lastTeam}</span>
     ),
   },
+  // {
+  //   key: "currentTeam",
+  //   label: "Team",
+  //   type: "exact",
+  //   display: (p) => (
+  //     <span className="text-sm font-bold leading-tight">{p.currentTeam}</span>
+  //   ),
+  // },
   {
     key: "specialization",
     label: "Role",
@@ -256,7 +265,7 @@ const CricketWordle = () => {
   const loadData = async () => {
     try {
       setLoading(true);
-      const response = await fetch("/small.json");
+      const response = await fetch("/test.json");
       const data: Record<string, RawPlayerData> = await response.json();
       const processed = Object.entries(data).map(([id, p]) => ({
         ...p,
